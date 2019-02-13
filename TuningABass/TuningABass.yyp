@@ -106,7 +106,7 @@
             "Key": "90fa2a56-ea06-4045-92fa-fd81143e0cf2",
             "Value": {
                 "id": "ad1b7057-6b98-4a87-a312-c88a23fd3451",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -180,6 +180,14 @@
                 "id": "1c03df1f-f9e5-491f-a5b7-e0c07191454a",
                 "resourcePath": "views\\dbea7001-20eb-42d2-baad-a4ea279b074c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e1d8cf1d-6d27-470a-b976-7ebe5540c0fb",
+            "Value": {
+                "id": "e98589c3-203b-41c3-b082-077c9fe45929",
+                "resourcePath": "objects\\obj_tuningInitializer\\obj_tuningInitializer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
