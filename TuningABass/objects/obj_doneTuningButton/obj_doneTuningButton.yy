@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_doneTuningButton",
     "eventList": [
-        
+        {
+            "id": "3be4c49b-4174-4310-b088-067b2514d942",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "a115213a-acdf-47f7-b085-bf08818aae5e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

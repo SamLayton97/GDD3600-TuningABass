@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "2252215d-077e-4b69-8107-5238a3e0a18f",
+            "Value": {
+                "id": "402970fc-335f-4d38-a497-23df9ac20be6",
+                "resourcePath": "rooms\\rm_BassRoom\\rm_BassRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2a73b7c1-026d-46fb-8e85-81101a0ac009",
             "Value": {
                 "id": "dce5ad24-823b-4a56-95dd-b87e2ee8d648",
                 "resourcePath": "views\\2a73b7c1-026d-46fb-8e85-81101a0ac009.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3942e64b-d4b2-447f-89d9-fa3a7158432e",
+            "Value": {
+                "id": "4287dd2c-9653-4614-af74-e2e1ccbd2ad6",
+                "resourcePath": "objects\\obj_backgroundMusicManager\\obj_backgroundMusicManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -76,6 +92,14 @@
                 "id": "045c185a-b13e-4c2a-bb79-988b5f71cb38",
                 "resourcePath": "views\\41e670af-7077-4206-b4ae-08fab130acf4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "45263082-53b0-44d1-8079-3e15378ad4f9",
+            "Value": {
+                "id": "4d049c05-c5f6-4688-beb9-d87527d0c2b4",
+                "resourcePath": "sounds\\sfx_buttonPress\\sfx_buttonPress.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -108,6 +132,14 @@
                 "id": "29ec5b97-bc0b-45e3-9073-06f587c3eca6",
                 "resourcePath": "sprites\\spr_bassString\\spr_bassString.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4c170fc0-eb94-4f2b-9683-87f67d8950d9",
+            "Value": {
+                "id": "57c1b7ef-af39-471b-952b-8568c405c4e3",
+                "resourcePath": "views\\4c170fc0-eb94-4f2b-9683-87f67d8950d9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "9755251a-cc47-42b7-9a9c-652845af6aba",
+            "Value": {
+                "id": "74a00177-28c4-4eb6-8491-0e0023ca55ef",
+                "resourcePath": "views\\9755251a-cc47-42b7-9a9c-652845af6aba.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9d2cf085-0e4f-405a-be3a-fbd6b0db4b04",
             "Value": {
                 "id": "3283f772-5c7b-44a4-b525-b9d1454f6a85",
@@ -292,6 +332,14 @@
                 "id": "8ce689b7-df12-413e-b6af-8d2c9a10234c",
                 "resourcePath": "objects\\obj_doneTuningButton\\obj_doneTuningButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a293e60d-d5c7-4aa6-b376-ed377660343d",
+            "Value": {
+                "id": "fecc2e80-4a4d-43be-a23a-a6612bfcd959",
+                "resourcePath": "sounds\\sfx_buttonHighlight\\sfx_buttonHighlight.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -359,6 +407,14 @@
             }
         },
         {
+            "Key": "b51b52cb-00ae-47a2-9d3b-af891e95bd77",
+            "Value": {
+                "id": "ace2e5da-239f-42dd-991b-4b76fea0e519",
+                "resourcePath": "views\\b51b52cb-00ae-47a2-9d3b-af891e95bd77.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b6024b33-e4b3-43da-8066-119a5f86ad10",
             "Value": {
                 "id": "91b88267-3fc8-4079-b972-89ddf30d84fe",
@@ -404,6 +460,14 @@
                 "id": "0975c717-0fba-4379-83e6-5956c24b3e1d",
                 "resourcePath": "views\\c3d91d06-bb9e-41f8-9aae-641657589eeb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5313193-2298-495b-be8d-fa1050ae4ad9",
+            "Value": {
+                "id": "af3745e4-c859-4a21-8c0a-535c48c7172d",
+                "resourcePath": "sounds\\mus_GameBackground\\mus_GameBackground.yy",
+                "resourceType": "GMSound"
             }
         },
         {
