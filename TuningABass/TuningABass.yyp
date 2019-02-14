@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "4c117f2a-25cd-41ed-932f-e1602d5a1289",
+            "Value": {
+                "id": "7fb9a207-58b5-4024-933e-04eca397b965",
+                "resourcePath": "sounds\\mus_MenuBackground\\mus_MenuBackground.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4c170fc0-eb94-4f2b-9683-87f67d8950d9",
             "Value": {
                 "id": "57c1b7ef-af39-471b-952b-8568c405c4e3",

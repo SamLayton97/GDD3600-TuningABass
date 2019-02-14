@@ -1,8 +1,8 @@
 {
-    "id": "c5313193-2298-495b-be8d-fa1050ae4ad9",
+    "id": "4c117f2a-25cd-41ed-932f-e1602d5a1289",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "mus_GameBackground",
+    "name": "mus_MenuBackground",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.6
+    "volume": 1
 }

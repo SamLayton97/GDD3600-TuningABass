@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_backgroundMusicManager",
     "eventList": [
-        
+        {
+            "id": "01a47959-8e43-49a1-bb65-f9e4b1478ce6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3942e64b-d4b2-447f-89d9-fa3a7158432e"
+        },
+        {
+            "id": "264c2d18-3808-49f2-8ec5-486040275fe0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 7,
+            "m_owner": "3942e64b-d4b2-447f-89d9-fa3a7158432e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
