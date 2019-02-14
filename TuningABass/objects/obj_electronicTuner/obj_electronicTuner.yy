@@ -65,6 +65,20 @@
             "value": "default",
             "varName": "stringName",
             "varType": 2
+        },
+        {
+            "id": "1b0f4b30-9658-4b13-a286-8e000cffe856",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": ".05",
+            "varName": "minVolumeToRead",
+            "varType": 0
         }
     ],
     "solid": false,
