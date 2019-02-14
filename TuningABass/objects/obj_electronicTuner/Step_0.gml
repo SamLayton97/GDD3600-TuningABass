@@ -22,3 +22,7 @@ else if (currTune >= 35 && currTune <= 49 && sprite_index != spr_electronicTuner
 // and if pitch is in tune, set tuner to show 'in tune'
 else if (currTune > 49 && currTune < 51 && sprite_index != spr_electronicTunerInTune)
 	sprite_index = spr_electronicTunerInTune;
+	
+// as player approaches perfectly tuned string, speed up animation
+if (currTune >= 35 && currTune <= 65)
+	image_speed = 1.5 / abs(50 - currTune);

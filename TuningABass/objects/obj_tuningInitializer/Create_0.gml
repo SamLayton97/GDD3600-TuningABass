@@ -48,5 +48,5 @@ global.aTune = aInitTune;
 global.dTune = dInitTune;
 global.gTune = gInitTune;
 
-// TEMP CODE: automatically go to tuning room to test randomization functionality
+// TEMP CODE: automatically go to tuning room to test tuning functionality
 room_goto(rm_TuningString);

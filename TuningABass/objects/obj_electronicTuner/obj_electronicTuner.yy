@@ -53,48 +53,6 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "527f5806-fd32-4ec2-ae8f-96e2eb197189",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "minAnimFPS",
-            "varType": 1
-        },
-        {
-            "id": "44527c51-4001-4914-bd9b-db1991f9f078",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "20",
-            "varName": "maxAnimFPS",
-            "varType": 1
-        },
-        {
-            "id": "027de667-543b-41ac-94f0-4defb4e81106",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "10",
-            "varName": "MaxFlashDist",
-            "varType": 0
-        },
-        {
             "id": "377fa5a6-e5c6-4185-b512-29dba063b662",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
