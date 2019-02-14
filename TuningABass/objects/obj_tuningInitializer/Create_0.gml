@@ -49,4 +49,4 @@ global.dTune = dInitTune;
 global.gTune = gInitTune;
 
 // TEMP CODE: automatically go to tuning room to test tuning functionality
-room_goto(rm_TuningString);
+//room_goto(rm_TuningString);
