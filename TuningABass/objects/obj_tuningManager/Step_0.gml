@@ -14,12 +14,10 @@ else if (keyboard_check(ord("D")))
 }
 
 // if necessary, clamp string's tune within acceptable value range (0 - 100)
-if (currentTuning < 0)
-	currentTuning = 0;
-else if (currentTuning > 100)
-	currentTuning = 100;
+if (currentTuning < tuningRangeLowerBound)
+	currentTuning = tuningRangeLowerBound;
+else if (currentTuning > tuningRangeUpperBound)
+	currentTuning = tuningRangeUpperBound;
 	
 // update knob's rotation according to new tuning
 obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
-
-show_debug_message(string(currentTuning));

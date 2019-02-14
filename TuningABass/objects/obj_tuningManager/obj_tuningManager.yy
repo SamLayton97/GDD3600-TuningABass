@@ -97,6 +97,34 @@
             "value": "0.4",
             "varName": "tuningRate",
             "varType": 0
+        },
+        {
+            "id": "60f5587f-69e6-48bd-9849-f379ac0b521c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-25",
+            "varName": "tuningRangeLowerBound",
+            "varType": 1
+        },
+        {
+            "id": "d08d6026-ec74-4c8a-b963-8d2e3447bcbb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "125",
+            "varName": "tuningRangeUpperBound",
+            "varType": 1
         }
     ],
     "solid": false,
