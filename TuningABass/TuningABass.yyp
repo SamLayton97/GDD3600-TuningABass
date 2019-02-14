@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "624bf078-8300-4486-8ebd-38cdccb21f29",
+            "Value": {
+                "id": "4b0f9ff4-8f14-44b6-8c81-b613f770f632",
+                "resourcePath": "sprites\\spr_electronicTunerInTune\\spr_electronicTunerInTune.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "641c7c69-f503-4d39-a650-db288dbe97ea",
+            "Value": {
+                "id": "7f8f8395-8168-404b-8848-3e720161d0f2",
+                "resourcePath": "sprites\\spr_electronicTunerSharpFlashing\\spr_electronicTunerSharpFlashing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6944e940-c2d0-4aa9-93bb-c4cf2f5285e9",
             "Value": {
                 "id": "758b4583-bb77-488a-97fb-cadbbb224891",
@@ -156,6 +172,14 @@
                 "id": "ad1b7057-6b98-4a87-a312-c88a23fd3451",
                 "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "93bc5dbd-f974-4a48-8e43-51e0dd6ea195",
+            "Value": {
+                "id": "8fa467d8-132e-4bdd-925c-d4333b784ce1",
+                "resourcePath": "views\\93bc5dbd-f974-4a48-8e43-51e0dd6ea195.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -247,6 +271,14 @@
             }
         },
         {
+            "Key": "c1f8d7a4-2906-47f5-9bea-01d94a54c8ee",
+            "Value": {
+                "id": "f3ad8589-5f25-4fc6-9c14-ae6c2e2c0ed1",
+                "resourcePath": "sprites\\spr_electronicTunerFlatFlashing\\spr_electronicTunerFlatFlashing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3d91d06-bb9e-41f8-9aae-641657589eeb",
             "Value": {
                 "id": "0975c717-0fba-4379-83e6-5956c24b3e1d",
@@ -263,6 +295,14 @@
             }
         },
         {
+            "Key": "d0e17775-cb6e-4775-bf30-3b6eedc9e556",
+            "Value": {
+                "id": "f6dcf04d-940e-4721-8c94-d9a3bcc87543",
+                "resourcePath": "sprites\\spr_electronicTunerSharp\\spr_electronicTunerSharp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dbea7001-20eb-42d2-baad-a4ea279b074c",
             "Value": {
                 "id": "1c03df1f-f9e5-491f-a5b7-e0c07191454a",
@@ -276,6 +316,14 @@
                 "id": "e98589c3-203b-41c3-b082-077c9fe45929",
                 "resourcePath": "objects\\obj_tuningInitializer\\obj_tuningInitializer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e859f4f7-402a-420d-b5cc-c5c0b0e0d5c1",
+            "Value": {
+                "id": "b6a2e882-41ea-4f8a-bc50-39be47f03914",
+                "resourcePath": "sprites\\spr_electronicTunerFlat\\spr_electronicTunerFlat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
