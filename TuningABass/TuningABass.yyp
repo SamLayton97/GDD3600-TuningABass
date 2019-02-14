@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "199afb25-8e63-48c3-a20f-f0986dd0bdab",
+            "Value": {
+                "id": "a54810b7-7bb0-4fa1-b63b-04a1439e47d4",
+                "resourcePath": "objects\\obj_bassHeadManager\\obj_bassHeadManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2252215d-077e-4b69-8107-5238a3e0a18f",
             "Value": {
                 "id": "402970fc-335f-4d38-a497-23df9ac20be6",
@@ -306,7 +314,7 @@
             "Key": "85b5bc79-249e-4fd9-bf82-2433ab679038",
             "Value": {
                 "id": "cc0404db-44b1-4421-8f8e-65b62077c8a1",
-                "resourcePath": "sprites\\spr_textMenuBackground\\spr_textMenuBackground.yy",
+                "resourcePath": "sprites\\spr_creditsMenuBackground\\spr_creditsMenuBackground.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -31,5 +31,3 @@ if (audio_sound_get_gain(dronePlaying) >= 1)
 {
 	audio_sound_gain(dronePlaying, 0, descendingGainTime);
 }
-
-//show_debug_message(string(currentTuning));
