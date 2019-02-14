@@ -1,0 +1,91 @@
+{
+    "id": "062f43df-4c3d-4069-9ac1-4153c2dd951e",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_electronicTuner",
+    "eventList": [
+        {
+            "id": "4bc98374-7960-496b-b8d1-6757089b065f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "062f43df-4c3d-4069-9ac1-4153c2dd951e"
+        },
+        {
+            "id": "78087975-bab5-40cc-a87d-30c849d179ae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "062f43df-4c3d-4069-9ac1-4153c2dd951e"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "527f5806-fd32-4ec2-ae8f-96e2eb197189",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "minAnimFPS",
+            "varType": 1
+        },
+        {
+            "id": "44527c51-4001-4914-bd9b-db1991f9f078",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "maxAnimFPS",
+            "varType": 1
+        },
+        {
+            "id": "027de667-543b-41ac-94f0-4defb4e81106",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "MaxFlashDist",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "e859f4f7-402a-420d-b5cc-c5c0b0e0d5c1",
+    "visible": true
+}

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "062f43df-4c3d-4069-9ac1-4153c2dd951e",
+            "Value": {
+                "id": "6571fe60-70fb-4e16-b2c8-eec1ceb03edd",
+                "resourcePath": "objects\\obj_electronicTuner\\obj_electronicTuner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c50edeb-2a2a-4cbf-a98e-33d54635a268",
             "Value": {
                 "id": "d22a5737-66bc-406e-a825-bc0cd89aa185",
