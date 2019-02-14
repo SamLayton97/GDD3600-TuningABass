@@ -586,7 +586,7 @@
             "Key": "c5313193-2298-495b-be8d-fa1050ae4ad9",
             "Value": {
                 "id": "af3745e4-c859-4a21-8c0a-535c48c7172d",
-                "resourcePath": "sounds\\mus_GameBackground\\mus_GameBackground.yy",
+                "resourcePath": "sounds\\mus_TuningBackground\\mus_TuningBackground.yy",
                 "resourceType": "GMSound"
             }
         },
