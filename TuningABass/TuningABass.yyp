@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0c0c4034-bc31-4fd6-8834-c133f51982bc",
+            "Value": {
+                "id": "7b1a3e28-27ba-4128-8745-28801207761b",
+                "resourcePath": "sprites\\spr_buttonBaseHighlighted\\spr_buttonBaseHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c50edeb-2a2a-4cbf-a98e-33d54635a268",
             "Value": {
                 "id": "d22a5737-66bc-406e-a825-bc0cd89aa185",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "5a12d47c-03c6-4d4a-a391-9c3bd5ac6919",
+            "Value": {
+                "id": "216e8a32-9a5a-444c-8c00-11e8dbd9e99b",
+                "resourcePath": "sprites\\spr_buttonBase\\spr_buttonBase.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5affffbd-a457-46df-b17b-b2e98b63e030",
             "Value": {
                 "id": "269e7a5a-5aec-4ee8-b9ef-49745d7e14ed",
@@ -180,6 +196,14 @@
                 "id": "27dcd07d-a985-40d3-a3f8-ab835756a3e4",
                 "resourcePath": "views\\79b72d6b-d9ca-4099-bcc8-5e90133b1278.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85740f97-6895-4b16-8ba0-730c3e1e104c",
+            "Value": {
+                "id": "810bc6b3-bd14-48ab-8fc3-c52b39e9a8ce",
+                "resourcePath": "fonts\\fnt_buttons\\fnt_buttons.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -252,6 +276,14 @@
                 "id": "3283f772-5c7b-44a4-b525-b9d1454f6a85",
                 "resourcePath": "views\\9d2cf085-0e4f-405a-be3a-fbd6b0db4b04.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a115213a-acdf-47f7-b085-bf08818aae5e",
+            "Value": {
+                "id": "8ce689b7-df12-413e-b6af-8d2c9a10234c",
+                "resourcePath": "objects\\obj_doneTuningButton\\obj_doneTuningButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -404,6 +436,14 @@
                 "id": "057d2720-8f3a-45bd-8cc4-aa0451d6161a",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f576b49d-1af2-4ae7-be78-8580417d77c4",
+            "Value": {
+                "id": "ab4749b8-6de1-470b-bf7d-1f9496f6f5bd",
+                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
