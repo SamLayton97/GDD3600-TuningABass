@@ -1,28 +1,38 @@
 {
-    "id": "3942e64b-d4b2-447f-89d9-fa3a7158432e",
+    "id": "e0942a75-8757-4f89-97e6-3a19fa590c91",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_backgroundMusicManager",
+    "name": "obj_stringAndKnob",
     "eventList": [
         {
-            "id": "01a47959-8e43-49a1-bb65-f9e4b1478ce6",
+            "id": "0190c8ab-aa9d-46dc-b0cd-2f97eeb2bbdd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "3942e64b-d4b2-447f-89d9-fa3a7158432e"
+            "m_owner": "e0942a75-8757-4f89-97e6-3a19fa590c91"
         },
         {
-            "id": "264c2d18-3808-49f2-8ec5-486040275fe0",
+            "id": "01e4429a-b9f3-4640-95c5-8eb676bc3290",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 5,
-            "eventtype": 7,
-            "m_owner": "3942e64b-d4b2-447f-89d9-fa3a7158432e"
+            "enumb": 10,
+            "eventtype": 6,
+            "m_owner": "e0942a75-8757-4f89-97e6-3a19fa590c91"
+        },
+        {
+            "id": "3d1df276-5541-4555-bf1e-bff7c6de7508",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "e0942a75-8757-4f89-97e6-3a19fa590c91"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "094def5e-037d-4505-a47f-0d8867c457de",
+            "id": "d9d126d4-e6dd-4091-91f2-714ca1447d03",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +62,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "mus_MenuBackground",
-            "varName": "menuMusic",
+            "value": "spr_eString",
+            "varName": "myStandardSprite",
             "varType": 5
         },
         {
-            "id": "676e36d0-603b-4c5b-b055-862a970f7ddb",
+            "id": "524a1d89-9862-4e67-91bf-43d23815277c",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -66,8 +76,22 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "mus_TuningBackground",
-            "varName": "gameMusic",
+            "value": "spr_eStringHighlighted",
+            "varName": "myHighlightedSprite",
+            "varType": 5
+        },
+        {
+            "id": "ac212458-96c3-4a96-85fe-82959231ebae",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "sfx_eStringPlucked",
+            "varName": "myPluckedSound",
             "varType": 5
         }
     ],
