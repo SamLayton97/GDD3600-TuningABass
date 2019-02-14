@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "6bb17b24-68d5-444f-9932-cb994112c5a7",
+            "Value": {
+                "id": "92d9ed87-7ceb-41b5-97de-2ed62276ee3d",
+                "resourcePath": "fonts\\fnt_electronicTuner\\fnt_electronicTuner.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "6e2deecc-ab3b-47e4-a0f6-33dfb2f3470c",
             "Value": {
                 "id": "fa77635e-7045-46ed-9e8e-a4335d828e9c",
@@ -276,6 +284,14 @@
                 "id": "59c1dfd5-b9b1-4b18-aa2f-1a78bb8db888",
                 "resourcePath": "views\\c00e30ed-a461-433b-bdfb-c808679c2d69.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c18385a7-bece-4785-9756-e6d9d5af95fb",
+            "Value": {
+                "id": "d340c5d4-7a94-4421-8985-83731aa575fd",
+                "resourcePath": "sprites\\spr_electronicTuner\\spr_electronicTuner.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

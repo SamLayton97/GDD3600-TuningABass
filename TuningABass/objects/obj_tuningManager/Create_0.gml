@@ -34,5 +34,3 @@ obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
 dronePlaying = audio_play_sound(stringDrone, 15, true);
 var pitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
 audio_sound_pitch(dronePlaying, pitchMultiplier);
-
-// TODO: tell electronic tuner to display correct string

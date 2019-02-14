@@ -26,4 +26,4 @@ obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
 var newPitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
 audio_sound_pitch(dronePlaying, newPitchMultiplier);
 
-show_debug_message(string(currentTuning));
+//show_debug_message(string(currentTuning));
