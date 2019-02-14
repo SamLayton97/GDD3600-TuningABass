@@ -4,4 +4,4 @@
 event_inherited();
 
 // return to tuning room
-room_goto(rm_TuningString);
+room_goto(rm_BassRoom);
