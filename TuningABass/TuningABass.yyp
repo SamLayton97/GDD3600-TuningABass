@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "3b499fe3-faf3-40ba-8608-20fbe729bf1c",
+            "Value": {
+                "id": "9c193c7b-e294-4b3f-a468-38fa4927a5ef",
+                "resourcePath": "objects\\obj_tuningKnobBase\\obj_tuningKnobBase.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "41e670af-7077-4206-b4ae-08fab130acf4",
             "Value": {
                 "id": "045c185a-b13e-4c2a-bb79-988b5f71cb38",
@@ -63,11 +71,43 @@
             }
         },
         {
+            "Key": "47efd52c-ff0f-4362-bf52-f06cfbd4cce7",
+            "Value": {
+                "id": "a47eaff5-e46a-4245-bd62-b408c41d47bf",
+                "resourcePath": "objects\\obj_tuningKnob\\obj_tuningKnob.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "518f6376-d630-4b4a-b622-e87ea9f65fe6",
+            "Value": {
+                "id": "6c5d1626-35e0-4638-87df-5a7dd558e5b9",
+                "resourcePath": "sprites\\spr_tuningKnobBase\\spr_tuningKnobBase.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52954ba6-aefa-4241-95f4-314047176c8c",
             "Value": {
                 "id": "eb8b91fb-776d-4158-985e-b20c1cde1b45",
                 "resourcePath": "views\\52954ba6-aefa-4241-95f4-314047176c8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6944e940-c2d0-4aa9-93bb-c4cf2f5285e9",
+            "Value": {
+                "id": "758b4583-bb77-488a-97fb-cadbbb224891",
+                "resourcePath": "sounds\\sfx_aDrone\\sfx_aDrone.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6e2deecc-ab3b-47e4-a0f6-33dfb2f3470c",
+            "Value": {
+                "id": "fa77635e-7045-46ed-9e8e-a4335d828e9c",
+                "resourcePath": "sprites\\spr_tuningKnob\\spr_tuningKnob.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -95,6 +135,14 @@
             }
         },
         {
+            "Key": "89739470-c9f4-47bc-b59c-8607bccb26e0",
+            "Value": {
+                "id": "f3e62774-8738-4b0a-8c8a-9884dc593314",
+                "resourcePath": "rooms\\rm_TuningString\\rm_TuningString.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8bc4122e-cd4c-4149-84ae-d31cdd21bcdf",
             "Value": {
                 "id": "ad56a21d-9cac-41f5-8ff4-9210a10ccdea",
@@ -108,6 +156,30 @@
                 "id": "ad1b7057-6b98-4a87-a312-c88a23fd3451",
                 "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "96425081-82a1-4074-8908-4df23fd46ef1",
+            "Value": {
+                "id": "e6960d16-e837-4e58-8a34-7fd66c3a4c39",
+                "resourcePath": "sounds\\sfx_eDrone\\sfx_eDrone.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a52db567-f23a-42c2-8ac5-d272effb7962",
+            "Value": {
+                "id": "c6093a89-6005-409c-88f1-c8472fbe5172",
+                "resourcePath": "objects\\obj_tuningManager\\obj_tuningManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a5fe6266-2883-43e4-b391-796dc3d972c3",
+            "Value": {
+                "id": "eb701bf2-b314-4b3c-bb8f-f8d1fe571059",
+                "resourcePath": "sounds\\sfx_dDrone\\sfx_dDrone.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -159,6 +231,14 @@
             }
         },
         {
+            "Key": "c00e30ed-a461-433b-bdfb-c808679c2d69",
+            "Value": {
+                "id": "59c1dfd5-b9b1-4b18-aa2f-1a78bb8db888",
+                "resourcePath": "views\\c00e30ed-a461-433b-bdfb-c808679c2d69.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c3d91d06-bb9e-41f8-9aae-641657589eeb",
             "Value": {
                 "id": "0975c717-0fba-4379-83e6-5956c24b3e1d",
@@ -196,6 +276,14 @@
                 "id": "057d2720-8f3a-45bd-8cc4-aa0451d6161a",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fc905056-f644-4cb8-ad25-84c6b790c11e",
+            "Value": {
+                "id": "5da0df1c-8724-4b6e-b0d7-a9fa4ecb6c28",
+                "resourcePath": "sounds\\sfx_gDrone\\sfx_gDrone.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
