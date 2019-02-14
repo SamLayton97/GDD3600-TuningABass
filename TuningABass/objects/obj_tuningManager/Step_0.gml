@@ -25,3 +25,5 @@ obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
 // adjust drone's pitch to current tuning
 var newPitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
 audio_sound_pitch(dronePlaying, newPitchMultiplier);
+
+show_debug_message(string(currentTuning));

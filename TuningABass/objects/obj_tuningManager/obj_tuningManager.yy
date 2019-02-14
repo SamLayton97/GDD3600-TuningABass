@@ -108,7 +108,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "1",
             "varName": "tuningRangeLowerBound",
             "varType": 1
         },
@@ -122,7 +122,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "100",
+            "value": "125",
             "varName": "tuningRangeUpperBound",
             "varType": 1
         },
@@ -136,7 +136,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": ".08",
+            "value": ".1",
             "varName": "pitchDifferenceMagnifier",
             "varType": 0
         }
