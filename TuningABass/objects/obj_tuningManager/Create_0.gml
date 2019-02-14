@@ -30,7 +30,10 @@ switch (stringToTune)
 // rotate tuning knob according to current tuning plus its respective offset
 obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
 
-// begin looping string's drone at appropriate pitch
+// pitch string's drone at appropriate pitch
 dronePlaying = audio_play_sound(stringDrone, 15, true);
 var pitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
 audio_sound_pitch(dronePlaying, pitchMultiplier);
+
+// silence drone until player plucks string
+audio_sound_gain(dronePlaying, 0, 0);

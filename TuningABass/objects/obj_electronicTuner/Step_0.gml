@@ -25,4 +25,7 @@ else if (currTune > 49 && currTune < 51 && sprite_index != spr_electronicTunerIn
 	
 // as player approaches perfectly tuned string, speed up animation
 if (currTune >= 35 && currTune <= 65)
+{
 	image_speed = 1.5 / abs(50 - currTune);
+	show_debug_message(string(image_speed));
+}

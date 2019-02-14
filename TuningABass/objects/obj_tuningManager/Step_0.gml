@@ -26,4 +26,10 @@ obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
 var newPitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
 audio_sound_pitch(dronePlaying, newPitchMultiplier);
 
+// if gain of drone hits max (1), begin decreasing its volume over time
+if (audio_sound_get_gain(dronePlaying) >= 1)
+{
+	audio_sound_gain(dronePlaying, 0, descendingGainTime);
+}
+
 //show_debug_message(string(currentTuning));
