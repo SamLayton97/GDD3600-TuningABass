@@ -21,3 +21,7 @@ else if (currentTuning > tuningRangeUpperBound)
 	
 // update knob's rotation according to new tuning
 obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
+
+// adjust drone's pitch to current tuning
+var newPitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
+audio_sound_pitch(dronePlaying, newPitchMultiplier);

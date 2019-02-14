@@ -108,7 +108,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "-25",
+            "value": "0",
             "varName": "tuningRangeLowerBound",
             "varType": 1
         },
@@ -122,9 +122,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "125",
+            "value": "100",
             "varName": "tuningRangeUpperBound",
             "varType": 1
+        },
+        {
+            "id": "1d8dcb07-6906-48d5-b62c-31d36c3835d9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": ".08",
+            "varName": "pitchDifferenceMagnifier",
+            "varType": 0
         }
     ],
     "solid": false,
