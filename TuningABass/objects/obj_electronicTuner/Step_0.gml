@@ -28,7 +28,7 @@ if (droneVolume >= minVolumeToRead)
 		sprite_index = spr_electronicTunerInTune;
 }
 // otherwise (sound is too quiet to read)
-else
+else if (droneVolume < minVolumeToRead && sprite_index != spr_electronicTuner)
 {
 	// set tuner to display nothing
 	sprite_index = spr_electronicTuner;
