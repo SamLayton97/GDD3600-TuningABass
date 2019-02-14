@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0bc21950-231f-4000-9791-fdac99bf55e8",
+            "Value": {
+                "id": "2cfbe1eb-929e-446c-8d89-a65f96029352",
+                "resourcePath": "sprites\\spr_gStringHighlighted\\spr_gStringHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c0c4034-bc31-4fd6-8834-c133f51982bc",
             "Value": {
                 "id": "7b1a3e28-27ba-4128-8745-28801207761b",
@@ -68,6 +76,14 @@
                 "id": "a54810b7-7bb0-4fa1-b63b-04a1439e47d4",
                 "resourcePath": "objects\\obj_bassHeadManager\\obj_bassHeadManager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1f2a182e-2505-416e-9d2c-78836ec2d390",
+            "Value": {
+                "id": "78162313-5349-4189-a0a0-e0ba9d57c2ac",
+                "resourcePath": "sprites\\spr_dStringHighlighted\\spr_dStringHighlighted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -124,6 +140,14 @@
                 "id": "045c185a-b13e-4c2a-bb79-988b5f71cb38",
                 "resourcePath": "views\\41e670af-7077-4206-b4ae-08fab130acf4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "43c32a00-447c-49f1-9b5e-170b7c4b2fc0",
+            "Value": {
+                "id": "b58e5def-7c2f-4e8e-b157-14bb34a3a78f",
+                "resourcePath": "sprites\\spr_eStringHighlighted\\spr_eStringHighlighted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -515,6 +539,14 @@
             "Value": {
                 "id": "0970b60a-3cd5-4f76-97c5-fa5633736ac3",
                 "resourcePath": "sprites\\spr_titleMenuBackground\\spr_titleMenuBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b18d2481-dedb-4c69-b69c-5631554decd3",
+            "Value": {
+                "id": "152b33f1-dd67-4d7f-9b27-02a4fd873df6",
+                "resourcePath": "sprites\\spr_aStringHighlighted\\spr_aStringHighlighted.yy",
                 "resourceType": "GMSprite"
             }
         },
