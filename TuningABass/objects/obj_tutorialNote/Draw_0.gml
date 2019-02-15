@@ -9,7 +9,7 @@ draw_set_halign(fa_center);
 draw_self();
 
 // draw note's message to screen and instructions to close it
-draw_text_ext_color(x, y - (boxHeight * .2), myMessage, stringHeight, boxWidth * .85,
-	c_lime, c_lime, c_lime, c_lime, 1);
+//draw_text_ext_color(x, y - (boxHeight * .2), myMessage, stringHeight, boxWidth * .85,
+	//c_lime, c_lime, c_lime, c_lime, 1);
 draw_text_ext_color(x, y + 130, "Press 'Space' to close.", stringHeight, boxWidth * .85,
 	c_red, c_red, c_red, c_red, 1);

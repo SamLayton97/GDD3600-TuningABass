@@ -62,12 +62,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "spr_tutorialNote",
+            "value": "spr_introductionNote",
             "varName": "mySprite",
             "varType": 5
         },
         {
-            "id": "1b609187-561c-4b53-bf7e-83bfd3a4cce4",
+            "id": "eb577d87-9d58-4f47-be18-5068cfd45bf9",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -76,23 +76,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "default default default default default default default ",
+            "value": "Press 'Space' to close.",
             "varName": "myMessage",
             "varType": 2
-        },
-        {
-            "id": "06cb49f2-f7fb-4b9b-af54-374bfe76d1e6",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "myFont",
-            "varType": 5
         }
     ],
     "solid": false,

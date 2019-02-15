@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0c47b24d-a91e-4db8-8c3b-e866f91fe0d7",
+            "Value": {
+                "id": "b47a3622-f53f-4f12-8916-5dcd3f0cb2fc",
+                "resourcePath": "sprites\\spr_tuningControlsNote\\spr_tuningControlsNote.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c50edeb-2a2a-4cbf-a98e-33d54635a268",
             "Value": {
                 "id": "d22a5737-66bc-406e-a825-bc0cd89aa185",
@@ -124,6 +132,14 @@
                 "id": "dce5ad24-823b-4a56-95dd-b87e2ee8d648",
                 "resourcePath": "views\\2a73b7c1-026d-46fb-8e85-81101a0ac009.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2b3c6db9-1074-4827-8430-9aad4d183180",
+            "Value": {
+                "id": "11c7e29c-ef55-42f6-ab72-63c35a4e82ca",
+                "resourcePath": "objects\\obj_tryAgainNote\\obj_tryAgainNote.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,10 +327,18 @@
             }
         },
         {
+            "Key": "5505f7cf-1bef-4b99-a3e4-cb6f2ea429c6",
+            "Value": {
+                "id": "9b40197b-1da3-4614-b704-09eedaa79e47",
+                "resourcePath": "objects\\obj_tuningControlsNote\\obj_tuningControlsNote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "55bdf2b4-5aa0-4415-ac49-17d648b44838",
             "Value": {
                 "id": "56b04179-0ac6-436c-bbc2-7f5fff72cbe9",
-                "resourcePath": "sprites\\spr_tutorialNote\\spr_tutorialNote.yy",
+                "resourcePath": "sprites\\spr_introductionNote\\spr_introductionNote.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -383,11 +407,27 @@
             }
         },
         {
+            "Key": "709b0f0f-502d-4ee0-b8bc-2b80d0a8f950",
+            "Value": {
+                "id": "98f7a11f-0bfe-42ab-8359-6c9cff23c5bd",
+                "resourcePath": "sprites\\spr_tryAgainTutorialNote\\spr_tryAgainTutorialNote.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70f676ea-a646-42ee-a6d7-b60de83c36db",
             "Value": {
                 "id": "5759f772-aac7-4864-9303-9c1ad17b192a",
                 "resourcePath": "sprites\\spr_displayPanel\\spr_displayPanel.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "711fc4da-1cdd-4601-b1fc-ecfd802472b7",
+            "Value": {
+                "id": "edfd8148-66ab-41fc-868b-160ae8320d0c",
+                "resourcePath": "views\\711fc4da-1cdd-4601-b1fc-ecfd802472b7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -427,6 +467,14 @@
             "Value": {
                 "id": "75ec121b-1f4c-4ebe-acac-316558d222ba",
                 "resourcePath": "objects\\obj_bassHead\\obj_bassHead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7e2eafbb-7cae-497d-8999-3059e22d6aea",
+            "Value": {
+                "id": "e04657d0-5e92-4b04-afbe-7a2349ba7443",
+                "resourcePath": "objects\\obj_introTutorialNote\\obj_introTutorialNote.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -903,6 +951,14 @@
             }
         },
         {
+            "Key": "defffcba-967d-4970-9b97-fa0157c55177",
+            "Value": {
+                "id": "6a653150-cc3a-4a55-a74e-a46cee37088c",
+                "resourcePath": "objects\\obj_objectiveNote\\obj_objectiveNote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e0942a75-8757-4f89-97e6-3a19fa590c91",
             "Value": {
                 "id": "afa8797e-1e84-461a-9023-9cfa306c5246",
@@ -916,6 +972,14 @@
                 "id": "e98589c3-203b-41c3-b082-077c9fe45929",
                 "resourcePath": "objects\\obj_tuningInitializer\\obj_tuningInitializer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6326f57-70c8-45df-a7b7-09010619cdd9",
+            "Value": {
+                "id": "6dbca6f2-4a10-45b3-9150-315e7a228fa4",
+                "resourcePath": "sprites\\spr_objectiveTutorialNote\\spr_objectiveTutorialNote.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
