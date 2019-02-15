@@ -4,5 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-// Send player to see their end score
+// update score and send player to see it
+global.ProgressPercent = obj_jamProgressDisplay.jamPercentage;
 room_goto(rm_ScoreRoom);

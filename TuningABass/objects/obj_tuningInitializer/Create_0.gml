@@ -47,3 +47,6 @@ global.eTune = eInitTune;
 global.aTune = aInitTune;
 global.dTune = dInitTune;
 global.gTune = gInitTune;
+
+// initialize global progress percent to 0
+global.ProgressPercent = 0;
