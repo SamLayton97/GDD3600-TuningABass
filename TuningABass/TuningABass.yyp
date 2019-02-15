@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "37e884cc-4ac9-4d90-9c7e-5e6d39e9d941",
+            "Value": {
+                "id": "64a03075-09b9-455e-a6f7-a4662e4dc37c",
+                "resourcePath": "sounds\\sfx_crowdCheering\\sfx_crowdCheering.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3942e64b-d4b2-447f-89d9-fa3a7158432e",
             "Value": {
                 "id": "4287dd2c-9653-4614-af74-e2e1ccbd2ad6",
