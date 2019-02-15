@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "28da39c6-2d58-4e88-9f19-bf4f0d06b388",
+            "Value": {
+                "id": "5614dd18-20c2-47df-839e-4d58b7511f5c",
+                "resourcePath": "sprites\\spr_jamButtonHighlighted\\spr_jamButtonHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a73b7c1-026d-46fb-8e85-81101a0ac009",
             "Value": {
                 "id": "dce5ad24-823b-4a56-95dd-b87e2ee8d648",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "3e5b735c-9b13-4329-a13c-46bed9043ee2",
+            "Value": {
+                "id": "60558138-5769-4541-9d08-08b023f00fb8",
+                "resourcePath": "objects\\obj_jamButton\\obj_jamButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "41e670af-7077-4206-b4ae-08fab130acf4",
             "Value": {
                 "id": "045c185a-b13e-4c2a-bb79-988b5f71cb38",
@@ -163,6 +179,14 @@
             "Value": {
                 "id": "b58e5def-7c2f-4e8e-b157-14bb34a3a78f",
                 "resourcePath": "sprites\\spr_eStringHighlighted\\spr_eStringHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "444bf626-59b8-40d9-8e4e-057dcc60d809",
+            "Value": {
+                "id": "c45a0871-1802-4d60-a261-11aaae512a93",
+                "resourcePath": "sprites\\spr_jamButton\\spr_jamButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -748,6 +772,14 @@
                 "id": "af3745e4-c859-4a21-8c0a-535c48c7172d",
                 "resourcePath": "sounds\\mus_TuningBackground\\mus_TuningBackground.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c7014c44-5956-4b7f-be69-ee00f88cf1b9",
+            "Value": {
+                "id": "59df75dd-7928-47ea-9dcf-d51b5ce021a7",
+                "resourcePath": "rooms\\rm_ScoreRoom\\rm_ScoreRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
