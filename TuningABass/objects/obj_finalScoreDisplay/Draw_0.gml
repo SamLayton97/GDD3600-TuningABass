@@ -18,4 +18,4 @@ if (finalPercentage > 95)
 else if (finalPercentage > 90)
 	draw_text_color(x, y + 50, "... and is was good.", c_lime, c_lime, c_lime, c_lime, 1);
 else
-	draw_text_color(x, y + 50, "... and it wasn't bad.", c_lime, c_lime, c_lime, c_lime, 1);
+	draw_text_color(x, y + 50, "... and it wasn't that great.", c_lime, c_lime, c_lime, c_lime, 1);
