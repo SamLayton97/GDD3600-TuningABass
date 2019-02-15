@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "obj_tutorialNote",
     "eventList": [
-        
+        {
+            "id": "623f40b6-acc9-494c-9d58-b4de38282cc7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "505d1880-fa6d-40ac-8139-956a548f4523"
+        },
+        {
+            "id": "a0066d72-fbb4-401a-8a6a-9e165091ea95",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "505d1880-fa6d-40ac-8139-956a548f4523"
+        },
+        {
+            "id": "11ee314a-b8d0-4281-8f98-0a778905f7cc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "505d1880-fa6d-40ac-8139-956a548f4523"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,8 +51,51 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "799ec1f8-628f-4cfc-97aa-8a02f67108bf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_tutorialNote",
+            "varName": "mySprite",
+            "varType": 5
+        },
+        {
+            "id": "1b609187-561c-4b53-bf7e-83bfd3a4cce4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "default default default default default default default ",
+            "varName": "myMessage",
+            "varType": 2
+        },
+        {
+            "id": "06cb49f2-f7fb-4b9b-af54-374bfe76d1e6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "myFont",
+            "varType": 5
+        }
+    ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "55bdf2b4-5aa0-4415-ac49-17d648b44838",
     "visible": true
 }
