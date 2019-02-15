@@ -330,7 +330,7 @@
             "Key": "70f676ea-a646-42ee-a6d7-b60de83c36db",
             "Value": {
                 "id": "5759f772-aac7-4864-9303-9c1ad17b192a",
-                "resourcePath": "sprites\\spr_stringDisplay\\spr_stringDisplay.yy",
+                "resourcePath": "sprites\\spr_displayPanel\\spr_displayPanel.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -684,6 +684,14 @@
                 "id": "91b88267-3fc8-4079-b972-89ddf30d84fe",
                 "resourcePath": "views\\b6024b33-e4b3-43da-8066-119a5f86ad10.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b8f52c29-dba3-44a2-9b5c-d6409a11df2c",
+            "Value": {
+                "id": "764a2b84-22f4-4e4c-85ed-f68111551472",
+                "resourcePath": "objects\\obj_jamProgressDisplay\\obj_jamProgressDisplay.yy",
+                "resourceType": "GMObject"
             }
         },
         {
