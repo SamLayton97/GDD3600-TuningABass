@@ -41,7 +41,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "d69f287a-1d12-4458-bfc1-7ae5ca33e15c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.1",
+            "varName": "imageSpeedDeamplifier",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "49a0dccd-0e7e-428c-b058-289d1595abc5",
     "visible": true

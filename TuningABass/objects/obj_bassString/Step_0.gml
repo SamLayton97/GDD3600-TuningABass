@@ -6,7 +6,7 @@ var stringVolume = audio_sound_get_gain(obj_tuningManager.dronePlaying);
 // if string's sound is audible, set animation speed of string to match it
 if (stringVolume > 0)
 {
-	image_speed = stringVolume * room_speed;
+	image_speed = stringVolume * room_speed * imageSpeedDeamplifier;
 }
 // otherwise (inaudible), lock string's animation of first frame
 else

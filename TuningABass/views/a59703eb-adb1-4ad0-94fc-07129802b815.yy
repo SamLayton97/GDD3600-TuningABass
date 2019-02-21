@@ -12,7 +12,7 @@
         "173313cc-16d6-4578-9cec-83a536d5ab5b"
     ],
     "filterType": "GMObject",
-    "folderName": "Bass Objects",
+    "folderName": "Bass Head Objects",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -38,5 +38,5 @@ else if (droneVolume < minVolumeToRead && sprite_index != spr_electronicTuner)
 if (sprite_index == spr_electronicTunerFlatFlashing || sprite_index == spr_electronicTunerSharpFlashing)
 {
 	image_speed = 1.75 / abs(50 - currTune);
-	show_debug_message(string(image_speed));
+	//show_debug_message(string(image_speed));
 }
