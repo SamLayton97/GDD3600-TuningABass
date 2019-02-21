@@ -383,14 +383,6 @@
             }
         },
         {
-            "Key": "5affffbd-a457-46df-b17b-b2e98b63e030",
-            "Value": {
-                "id": "269e7a5a-5aec-4ee8-b9ef-49745d7e14ed",
-                "resourcePath": "objects\\OBSELETE_obj_tuningControls\\OBSELETE_obj_tuningControls.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5b069bb4-3afe-48cd-a219-2f1d712112cf",
             "Value": {
                 "id": "4c59f2ba-c031-4a92-a493-6ae91ec779b6",
