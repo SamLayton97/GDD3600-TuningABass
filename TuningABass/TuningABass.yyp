@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "111d3d22-7229-4b85-9f1f-039963c26cae",
+            "Value": {
+                "id": "ec6e85dc-6fdd-4877-9297-13ac82409c4f",
+                "resourcePath": "objects\\obj_tutorialTuningManager\\obj_tutorialTuningManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "11500f22-15df-4b91-b7dc-84ece4c3ac0c",
             "Value": {
                 "id": "c94702e0-1dd0-4e17-85cc-94968110e817",
@@ -106,7 +114,7 @@
             "Key": "199c6b9e-2424-450b-8e2a-e967300eee13",
             "Value": {
                 "id": "03c713eb-f2b8-4ef0-a26d-2618892b3f2c",
-                "resourcePath": "rooms\\rm_turningKnobTutorialRoom\\rm_turningKnobTutorialRoom.yy",
+                "resourcePath": "rooms\\rm_TurningKnobTutorialRoom\\rm_TurningKnobTutorialRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1108,6 +1116,14 @@
                 "id": "b6a2e882-41ea-4f8a-bc50-39be47f03914",
                 "resourcePath": "sprites\\spr_electronicTunerFlat\\spr_electronicTunerFlat.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec628aa3-d04b-47be-b364-efbbbfff8e00",
+            "Value": {
+                "id": "8c5d0dff-aab1-4f12-bf46-7079994d600f",
+                "resourcePath": "objects\\obj_tuneProximityDisplay\\obj_tuneProximityDisplay.yy",
+                "resourceType": "GMObject"
             }
         },
         {

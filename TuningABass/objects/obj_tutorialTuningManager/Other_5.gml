@@ -1,6 +1,6 @@
 /// @description Called before room ends
 
-// stop drone playing
+// stop playing drone
 audio_stop_sound(dronePlaying);
 
 // before closing room, update current tuning of string

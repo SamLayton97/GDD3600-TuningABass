@@ -1,7 +1,7 @@
 /// @description Used for initialization
 
 // set background music appropriate for given room
-if (room == rm_TuningString || room == rm_PluckingStringTutorialRoom || room == rm_turningKnobTutorialRoom)
+if (room == rm_TuningString || room == rm_PluckingStringTutorialRoom || room == rm_TurningKnobTutorialRoom)
 {
 	audio_play_sound(mus_TuningBackground, 4, true);
 }

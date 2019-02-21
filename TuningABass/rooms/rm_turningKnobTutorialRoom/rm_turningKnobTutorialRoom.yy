@@ -1,6 +1,6 @@
 
 {
-    "name": "rm_turningKnobTutorialRoom",
+    "name": "rm_TurningKnobTutorialRoom",
     "id": "199c6b9e-2424-450b-8e2a-e967300eee13",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -13,7 +13,8 @@
         "462a8345-dacd-4309-91c8-664d2a1407be",
         "f7111520-663e-436c-89b6-29aa35322420",
         "8ce06ab9-ba3e-46d5-97b2-a44f2984250b",
-        "9725fd9e-22c6-41d2-b8e2-e85757dd388e"
+        "9725fd9e-22c6-41d2-b8e2-e85757dd388e",
+        "84c71ac7-83b1-41e0-93ae-d1c422800d8c"
     ],
     "IsDnD": false,
     "layers": [
@@ -31,7 +32,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_20378255","id": "84c71ac7-83b1-41e0-93ae-d1c422800d8c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_20378255","objId": "ec628aa3-d04b-47be-b364-efbbbfff8e00","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 160,"y": 64}
             ],
             "layers": [
 
