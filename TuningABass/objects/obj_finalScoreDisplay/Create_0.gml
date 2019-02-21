@@ -3,33 +3,38 @@
 // retrieve player's final percentage
 finalPercentage = global.ProgressPercent;
 
-// play crowd cheering sound effect
-audio_play_sound(sfx_crowdCheering, 10, false);
+// play crown response sound appropriate to player's performance
+if (finalPercentage >= 90)
+	audio_play_sound(sfx_crowdCheering, 10, false);
+else if (finalPercentage >= 80)
+	audio_play_sound(sfx_smallGroupCheering, 10, false);
+else
+	audio_play_sound(sfx_crowdBooing, 10, false);
 
 // determine qualitative judgement of player's jam (overall performance) and generate feedback notes
 overallPerformance = "";
 feedbackNotes = "";
-if (finalPercentage > 97)
+if (finalPercentage >= 97)
 {
 	overallPerformance = "... and is was perfect!";
 	feedbackNotes = "Perfect tuning job! The student has become the master."
 }
-else if (finalPercentage > 93)
+else if (finalPercentage >= 93)
 {
 	overallPerformance = "... and is was great.";
 	feedbackNotes = "Make sure every string is perfectly in tune before playing. This is the case when the center light is solid for every string.";
 }
-else if (finalPercentage > 87)
+else if (finalPercentage >= 87)
 {
 	overallPerformance = "... and it was good.";
 	feedbackNotes = "When the center light flashes, the string is close but not yet in tune.";
 }
-else if (finalPercentage > 80)
+else if (finalPercentage >= 80)
 {
 	overallPerformance = "... and it was fine.";
 	feedbackNotes = "When the center light flashes, the string is close but not yet in tune. The faster the center light flashes, the closer you are to a 'perfect tune.'";
 }
-else if (finalPercentage > 70)
+else if (finalPercentage >= 70)
 {
 	overallPerformance = "... and it wasn't that great.";
 	feedbackNotes = "When the side lights on the tuner are solid, the string is either too flat or too sharp. Before you finish tuning, these lights shouldn't be on.";

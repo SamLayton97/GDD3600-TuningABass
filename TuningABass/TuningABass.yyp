@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "42b53f8a-9174-4cf3-a1b3-3608d20f2e95",
+            "Value": {
+                "id": "ca814f21-5a4a-46fd-ae2f-05614c935fc9",
+                "resourcePath": "sounds\\sfx_crowdBooing\\sfx_crowdBooing.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "43c32a00-447c-49f1-9b5e-170b7c4b2fc0",
             "Value": {
                 "id": "b58e5def-7c2f-4e8e-b157-14bb34a3a78f",
@@ -956,6 +964,14 @@
                 "id": "078869e9-8f8f-4be6-b908-43a904602798",
                 "resourcePath": "views\\c8f89aa4-2158-4ba4-a3b3-5a7b0390c1cd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb6fe70e-234c-47aa-9f59-8784eeeb0d5d",
+            "Value": {
+                "id": "d10495f5-df6d-4127-9374-9ad3942735c0",
+                "resourcePath": "sounds\\sfx_smallGroupCheering\\sfx_smallGroupCheering.yy",
+                "resourceType": "GMSound"
             }
         },
         {

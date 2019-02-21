@@ -23,5 +23,5 @@ draw_text_color(x - 200, y + 60, "D String: " + dFeedback, c_lime, c_lime, c_lim
 draw_text_color(x - 200, y + 90, "G String: " + gFeedback, c_lime, c_lime, c_lime, c_lime, 1);
 
 // draw feedback notes below performance breakdown
-draw_text_ext_color(x - 200, y + 165, "Notes: " + feedbackNotes, feedbackStringHeight / 2, boxWidth * 0.8,
+draw_text_ext_color(x - 200, y + 165, "Notes: " + feedbackNotes, feedbackStringHeight * .6, boxWidth * 0.8,
 	c_lime, c_lime, c_lime, c_lime, 1);
