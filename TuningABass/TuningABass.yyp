@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "90f4b357-74c7-4e3a-b27a-2c0b2003e7c3",
+            "Value": {
+                "id": "9034309c-94a8-403f-a959-04c82d0a1157",
+                "resourcePath": "sprites\\spr_smallDisplayPanel\\spr_smallDisplayPanel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "90fa2a56-ea06-4045-92fa-fd81143e0cf2",
             "Value": {
                 "id": "ad1b7057-6b98-4a87-a312-c88a23fd3451",
