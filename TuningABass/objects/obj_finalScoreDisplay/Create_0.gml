@@ -6,20 +6,37 @@ finalPercentage = global.ProgressPercent;
 // play crowd cheering sound effect
 audio_play_sound(sfx_crowdCheering, 10, false);
 
-// determine qualitative judgement of player's jam (overall performance)
+// determine qualitative judgement of player's jam (overall performance) and generate feedback notes
 overallPerformance = "";
+feedbackNotes = "";
 if (finalPercentage > 97)
+{
 	overallPerformance = "... and is was perfect!";
+	feedbackNotes = "Perfect tuning job! The student has become the master."
+}
 else if (finalPercentage > 93)
+{
 	overallPerformance = "... and is was great.";
+	feedbackNotes = "Make sure every string is perfectly in tune before playing.";
+}
 else if (finalPercentage > 87)
+{
 	overallPerformance = "... and it was good.";
+	feedbackNotes = "When the center light flashes, the string is close but not yet in tune.";
+}
 else if (finalPercentage > 80)
+{
 	overallPerformance = "... and it was fine.";
+	feedbackNotes = "";
+}
 else if (finalPercentage > 70)
+{
 	overallPerformance = "... and it wasn't that great.";
+}
 else
+{
 	overallPerformance = "... and it was pretty bad.";
+}
 
 // determine qualitative sound of e string
 eFeedback = "";
