@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "199c6b9e-2424-450b-8e2a-e967300eee13",
+            "Value": {
+                "id": "03c713eb-f2b8-4ef0-a26d-2618892b3f2c",
+                "resourcePath": "rooms\\rm_turningKnobTutorialRoom\\rm_turningKnobTutorialRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1d6c97e4-28f9-4a45-8040-ee87906cab13",
             "Value": {
                 "id": "ae86a42e-d4d3-4320-a12c-c547ec38aa77",
