@@ -17,6 +17,12 @@ else if (eTune > 55 && eTune <= 70)
 	eFeedback = "Too sharp";
 else if (eTune > 70)
 	eFeedback = "Way too sharp!";
+else if (eTune < 49.5 && eTune >= 45)
+	eFeedback = "A hair too flat";
+else if (eTune < 45 && eTune >= 30)
+	eFeedback = "Too flat";
+else if (eTune < 30)
+	eFeedback = "Way too flat!";
 	
 // determine qualitative sound of a string
 aFeedback = "";
@@ -29,6 +35,12 @@ else if (aTune > 55 && aTune <= 70)
 	aFeedback = "Too sharp";
 else if (aTune > 70)
 	aFeedback = "Way too sharp!";
+else if (aTune < 49.5 && aTune >= 45)
+	aFeedback = "A hair too flat";
+else if (aTune < 45 && aTune >= 30)
+	aFeedback = "Too flat";
+else if (aTune < 30)
+	aFeedback = "Way too flat!";
 	
 // determine qualitative sound of d string
 dFeedback = "";
@@ -41,6 +53,12 @@ else if (dTune > 55 && dTune <= 70)
 	dFeedback = "Too sharp";
 else if (dTune > 70)
 	dFeedback = "Way too sharp!";
+else if (dTune < 49.5 && dTune >= 45)
+	dFeedback = "A hair too flat";
+else if (dTune < 45 && dTune >= 30)
+	dFeedback = "Too flat";
+else if (dTune < 30)
+	dFeedback = "Way too flat!";
 	
 // determine qualitative sound of g string
 gFeedback = "";
@@ -53,3 +71,9 @@ else if (gTune > 55 && gTune <= 70)
 	gFeedback = "Too sharp";
 else if (gTune > 70)
 	gFeedback = "Way too sharp!";
+else if (gTune < 49.5 && gTune >= 45)
+	gFeedback = "A hair too flat";
+else if (gTune < 45 && gTune >= 30)
+	gFeedback = "Too flat";
+else if (gTune < 30)
+	gFeedback = "Way too flat!";

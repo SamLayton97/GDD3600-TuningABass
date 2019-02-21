@@ -30,7 +30,7 @@ else
 draw_text_color(x, y - 30, "Breakdown", c_lime, c_lime, c_lime, c_lime, 1);
 draw_set_font(fnt_finalScoreSmall);
 draw_set_halign(fa_left);
-draw_text_color(x - 200, y, "E String: " + eFeedback, c_lime, c_lime, c_lime, c_lime, 1);
-draw_text_color(x - 200, y + 25, "A String: " + aFeedback, c_lime, c_lime, c_lime, c_lime, 1);
-draw_text_color(x - 200, y + 50, "D String: " + dFeedback, c_lime, c_lime, c_lime, c_lime, 1);
-draw_text_color(x - 200, y + 75, "G String: " + gFeedback, c_lime, c_lime, c_lime, c_lime, 1);
+draw_text_color(x - 200, y + 10, "E String: " + eFeedback, c_lime, c_lime, c_lime, c_lime, 1);
+draw_text_color(x - 200, y + 40, "A String: " + aFeedback, c_lime, c_lime, c_lime, c_lime, 1);
+draw_text_color(x - 200, y + 70, "D String: " + dFeedback, c_lime, c_lime, c_lime, c_lime, 1);
+draw_text_color(x - 200, y + 100, "G String: " + gFeedback, c_lime, c_lime, c_lime, c_lime, 1);
