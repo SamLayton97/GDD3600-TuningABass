@@ -967,6 +967,14 @@
             }
         },
         {
+            "Key": "c8e63a7b-d87e-48f6-bfbf-19928e203ea5",
+            "Value": {
+                "id": "2bb8e6fc-5d51-490e-8c95-2a2544e88781",
+                "resourcePath": "rooms\\rm_PluckingStringTutorialRoom\\rm_PluckingStringTutorialRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c8f89aa4-2158-4ba4-a3b3-5a7b0390c1cd",
             "Value": {
                 "id": "078869e9-8f8f-4be6-b908-43a904602798",
