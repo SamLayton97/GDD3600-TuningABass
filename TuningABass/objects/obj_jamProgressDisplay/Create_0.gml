@@ -14,6 +14,15 @@ dProgress = 25 - (abs(50 - currDTune) / 2);
 gProgress = 25 - (abs(50 - currGTune) / 2);
 jamPercentage = eProgress + aProgress + dProgress + gProgress;
 
-// if player has completed tutorial, allow them to Jam!
+// if player has completed tutorial
 if (global.tutorialCompleted)
+{
+	// allow them to jam!
 	instance_create_layer(512, 152, "ForegroundObjects", obj_jamButton);
+	
+	// allow them to return to earlier tutorial sections
+	instance_create_layer(864, 624, "BackgroundObjects", obj_returnToTutorialPanel);
+	instance_create_layer(864, 576, "ForegroundObjects", obj_returnToStrumTutorial);
+	instance_create_layer(864, 640, "ForegroundObjects", obj_returnToKnobTutorial);
+	instance_create_layer(864, 704, "ForegroundObjects", obj_returnToTuningTutorial);
+}

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "078d6d90-f1c1-4769-9925-9bdbc2414601",
+            "Value": {
+                "id": "1e154ebb-0f62-4edd-92c4-d43255b9531a",
+                "resourcePath": "views\\078d6d90-f1c1-4769-9925-9bdbc2414601.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0bc21950-231f-4000-9791-fdac99bf55e8",
             "Value": {
                 "id": "2cfbe1eb-929e-446c-8d89-a65f96029352",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "1a4d0d7d-0aa5-4589-872d-238151a58c15",
+            "Value": {
+                "id": "50e00c7f-2f7d-4873-9098-ff90beaf60e1",
+                "resourcePath": "objects\\obj_returnToTutorialPanel\\obj_returnToTutorialPanel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d6c97e4-28f9-4a45-8040-ee87906cab13",
             "Value": {
                 "id": "ae86a42e-d4d3-4320-a12c-c547ec38aa77",
@@ -140,6 +156,14 @@
                 "id": "0c395de8-f490-4a8c-93f7-9948f7c97d4c",
                 "resourcePath": "views\\23a1f481-eaf7-476b-96a0-212c5a9bc729.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2523dc44-cb8a-4785-9d0e-4641f19d521a",
+            "Value": {
+                "id": "10eb5c25-140d-439f-a7e8-c72354e23395",
+                "resourcePath": "objects\\obj_returnToStrumTutorial\\obj_returnToStrumTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +204,14 @@
                 "id": "7d097871-23d7-40d3-8812-ed69a051f432",
                 "resourcePath": "fonts\\fnt_buttonsSmall\\fnt_buttonsSmall.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "361d7a07-f7b8-4498-a77e-43e776c60a66",
+            "Value": {
+                "id": "4d29c359-384a-45a5-9deb-a0b0810f17dc",
+                "resourcePath": "objects\\obj_returnToKnobTutorial\\obj_returnToKnobTutorial.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +407,14 @@
             }
         },
         {
+            "Key": "57f8566d-5869-4032-b248-fd85d4d9df8e",
+            "Value": {
+                "id": "b1ef7706-ae1a-4842-b56a-1cd34df28a19",
+                "resourcePath": "objects\\obj_returnToTuningTutorial\\obj_returnToTuningTutorial.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a12d47c-03c6-4d4a-a391-9c3bd5ac6919",
             "Value": {
                 "id": "216e8a32-9a5a-444c-8c00-11e8dbd9e99b",
@@ -412,6 +452,14 @@
                 "id": "758b4583-bb77-488a-97fb-cadbbb224891",
                 "resourcePath": "sounds\\sfx_aDrone\\sfx_aDrone.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6a48ac79-adc1-4e90-b70c-ef701f15b88e",
+            "Value": {
+                "id": "ee599573-b0ee-479e-86d7-a2d7bb3a24f7",
+                "resourcePath": "sprites\\spr_returnToTutorialPanel\\spr_returnToTutorialPanel.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -836,6 +884,14 @@
                 "id": "0970b60a-3cd5-4f76-97c5-fa5633736ac3",
                 "resourcePath": "sprites\\spr_titleMenuBackground\\spr_titleMenuBackground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0fd6da6-21cc-4a4d-9104-fc5ff4d2743a",
+            "Value": {
+                "id": "c7a08077-8bb8-4b87-b95b-c30753527b8e",
+                "resourcePath": "fonts\\fnt_buttonsVerySmall\\fnt_buttonsVerySmall.yy",
+                "resourceType": "GMFont"
             }
         },
         {
