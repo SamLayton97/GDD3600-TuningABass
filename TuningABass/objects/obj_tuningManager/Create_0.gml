@@ -37,3 +37,10 @@ audio_sound_pitch(dronePlaying, pitchMultiplier);
 
 // silence drone until player plucks string
 audio_sound_gain(dronePlaying, 0, 0);
+
+// if player is just learning to turn the knob, gradually increase string's volume
+if (room == rm_TurningKnobTutorialRoom)
+{
+	// increase gain of drone at standard rate
+	audio_sound_gain(dronePlaying, .8, ascendingGainTime);
+}

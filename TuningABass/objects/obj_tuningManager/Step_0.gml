@@ -26,8 +26,9 @@ obj_tuningKnob.image_angle = currentTuning + tuningKnobRotationOffset;
 var newPitchMultiplier = power((currentTuning / 50), pitchDifferenceMagnifier);
 audio_sound_pitch(dronePlaying, newPitchMultiplier);
 
-// if gain of drone hits max (1), begin decreasing its volume over time
-if (audio_sound_get_gain(dronePlaying) >= 1)
+// if player is isn't just learning to turn knobs (plucking is disabled) and if gain of drone hits max (1)
+if (room != rm_TurningKnobTutorialRoom && audio_sound_get_gain(dronePlaying) >= 1)
 {
+	// begin decreasing its volume over time
 	audio_sound_gain(dronePlaying, 0, descendingGainTime);
 }

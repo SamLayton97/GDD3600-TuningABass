@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "111d3d22-7229-4b85-9f1f-039963c26cae",
-            "Value": {
-                "id": "ec6e85dc-6fdd-4877-9297-13ac82409c4f",
-                "resourcePath": "objects\\obj_tutorialTuningManager\\obj_tutorialTuningManager.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "11500f22-15df-4b91-b7dc-84ece4c3ac0c",
             "Value": {
                 "id": "c94702e0-1dd0-4e17-85cc-94968110e817",
@@ -428,6 +420,14 @@
                 "id": "758b4583-bb77-488a-97fb-cadbbb224891",
                 "resourcePath": "sounds\\sfx_aDrone\\sfx_aDrone.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6ae93568-6292-4c71-98d6-1c9dcd750a27",
+            "Value": {
+                "id": "943b88d4-2862-48c6-86c0-3a10c9e9dced",
+                "resourcePath": "rooms\\rm_TuningTutorialRoom\\rm_TuningTutorialRoom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1067,6 +1067,14 @@
             "Value": {
                 "id": "28705d8e-dd43-406c-87cc-d30c95fdeb12",
                 "resourcePath": "views\\d7676b0e-1fa2-41f2-a3fa-ac36486d3675.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d83c8ce4-7056-4660-b86c-875601f264dd",
+            "Value": {
+                "id": "dfdda993-f45e-40be-862e-685a9e74bab2",
+                "resourcePath": "views\\d83c8ce4-7056-4660-b86c-875601f264dd.yy",
                 "resourceType": "GMFolder"
             }
         },
