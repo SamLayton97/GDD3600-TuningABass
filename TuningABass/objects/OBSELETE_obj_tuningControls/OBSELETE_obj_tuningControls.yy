@@ -2,7 +2,7 @@
     "id": "5affffbd-a457-46df-b17b-b2e98b63e030",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tuningControls",
+    "name": "OBSELETE_obj_tuningControls",
     "eventList": [
         
     ],

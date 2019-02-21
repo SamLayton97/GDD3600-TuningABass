@@ -1,5 +1,9 @@
 /// @description Initializes in-game variables before game starts in proper
 
+// Initialize game constants
+global.screenWidth = 1024;
+global.screenHeight = 768;
+
 // define enumeration of strings which player can tune
 enum BassStrings
 {

@@ -11,7 +11,7 @@
         "2b3c6db9-1074-4827-8430-9aad4d183180"
     ],
     "filterType": "GMObject",
-    "folderName": "Tutorial Notes",
+    "folderName": "*OBSELETE* Tutorial Notes",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

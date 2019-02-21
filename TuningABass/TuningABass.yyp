@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "338f78a9-b4f8-464c-a7c0-7bf4f97d6358",
+            "Value": {
+                "id": "7d097871-23d7-40d3-8812-ed69a051f432",
+                "resourcePath": "fonts\\fnt_buttonsSmall\\fnt_buttonsSmall.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "37e884cc-4ac9-4d90-9c7e-5e6d39e9d941",
             "Value": {
                 "id": "64a03075-09b9-455e-a6f7-a4662e4dc37c",
@@ -362,7 +370,7 @@
             "Key": "5affffbd-a457-46df-b17b-b2e98b63e030",
             "Value": {
                 "id": "269e7a5a-5aec-4ee8-b9ef-49745d7e14ed",
-                "resourcePath": "objects\\obj_tuningControls\\obj_tuningControls.yy",
+                "resourcePath": "objects\\OBSELETE_obj_tuningControls\\OBSELETE_obj_tuningControls.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -404,6 +412,14 @@
                 "id": "92d9ed87-7ceb-41b5-97de-2ed62276ee3d",
                 "resourcePath": "fonts\\fnt_electronicTuner\\fnt_electronicTuner.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "6c33f917-35da-4917-9ff3-e072c5fd7aed",
+            "Value": {
+                "id": "8dc3407b-ff06-4a7e-8b06-83b450703546",
+                "resourcePath": "views\\6c33f917-35da-4917-9ff3-e072c5fd7aed.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -452,6 +468,14 @@
                 "id": "94443483-9d1b-428f-a570-4159aaba4b30",
                 "resourcePath": "views\\71b85e34-cb53-4034-a2cb-2717504f55c1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "736c1163-7578-4fb7-b565-714f0af0aef4",
+            "Value": {
+                "id": "6fd6990f-4101-4c1d-b782-8c2680484bf8",
+                "resourcePath": "objects\\obj_showControlsButton\\obj_showControlsButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -530,7 +554,7 @@
             "Key": "88bdc68d-4815-491f-80b6-678f9ea6cced",
             "Value": {
                 "id": "ab140f50-7c7a-4baa-a19e-05e156c1ab9c",
-                "resourcePath": "sprites\\spr_tuningControls\\spr_tuningControls.yy",
+                "resourcePath": "sprites\\OBSELETE_spr_tuningControls\\OBSELETE_spr_tuningControls.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -812,6 +836,14 @@
                 "id": "91b88267-3fc8-4079-b972-89ddf30d84fe",
                 "resourcePath": "views\\b6024b33-e4b3-43da-8066-119a5f86ad10.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b755ea1f-927e-4a6e-86f8-f94affa40c74",
+            "Value": {
+                "id": "2ef50674-b6eb-49fe-99b3-b333363c1637",
+                "resourcePath": "objects\\obj_controlsDisplay\\obj_controlsDisplay.yy",
+                "resourceType": "GMObject"
             }
         },
         {

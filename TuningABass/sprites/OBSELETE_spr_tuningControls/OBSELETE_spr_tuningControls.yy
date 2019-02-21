@@ -2,7 +2,7 @@
     "id": "88bdc68d-4815-491f-80b6-678f9ea6cced",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_tuningControls",
+    "name": "OBSELETE_spr_tuningControls",
     "For3D": false,
     "HTile": false,
     "VTile": false,
