@@ -111,3 +111,10 @@ else if (gTune < 45 && gTune >= 30)
 	gFeedback = "Too flat";
 else if (gTune < 30)
 	gFeedback = "Way too flat!";
+	
+// save width and height of sprite
+boxWidth = sprite_get_width(spr_finalScorePanel);
+boxHeight = sprite_get_width(spr_finalScorePanel);
+
+// save height of feedback message
+feedbackStringHeight = string_height(feedbackNotes);
