@@ -13,7 +13,7 @@ draw_text_color(x, y - 50, "Your jam rocked ...", c_lime, c_lime, c_lime, c_lime
 draw_text_color(x, y, string(finalPercentage) + "%", c_lime, c_lime, c_lime, c_lime, 1);
 
 // draw text casting judgement on player's jam
-if (finalPercentage > 95)
+if (finalPercentage > 97)
 	draw_text_color(x, y + 50, "... and is was perfect!", c_lime, c_lime, c_lime, c_lime, 1);
 else if (finalPercentage > 90)
 	draw_text_color(x, y + 50, "... and is was good.", c_lime, c_lime, c_lime, c_lime, 1);

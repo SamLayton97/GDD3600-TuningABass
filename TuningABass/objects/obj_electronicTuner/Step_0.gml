@@ -16,11 +16,11 @@ if (droneVolume >= minVolumeToRead)
 		// set tuner to show pitch as sharp
 		sprite_index = spr_electronicTunerSharp;
 	// if pitch is within 'hot zone' but just sharp of perfect
-	else if (currTune >= 51 && currTune <= 70 && sprite_index != spr_electronicTunerSharpFlashing)
+	else if (currTune >= 50.5 && currTune <= 70 && sprite_index != spr_electronicTunerSharpFlashing)
 		// set tuner to show sharp and flash in tune
 		sprite_index = spr_electronicTunerSharpFlashing;
 	// if pitch is within 'hot zone' but just flat of perfect
-	else if (currTune >= 30 && currTune <= 49 && sprite_index != spr_electronicTunerFlatFlashing)
+	else if (currTune >= 30 && currTune <= 49.5 && sprite_index != spr_electronicTunerFlatFlashing)
 		// set tuner to show flat and flash in tune
 		sprite_index = spr_electronicTunerFlatFlashing;
 	// and if pitch is in tune, set tuner to show 'in tune'
