@@ -14,6 +14,6 @@ dProgress = 25 - (abs(50 - currDTune) / 2);
 gProgress = 25 - (abs(50 - currGTune) / 2);
 jamPercentage = eProgress + aProgress + dProgress + gProgress;
 
-// if player's tune progress is at least 80%, allow them to Jam!
-if (jamPercentage >= 80)
+// if player has completed tutorial, allow them to Jam!
+if (global.tutorialCompleted)
 	instance_create_layer(512, 152, "ForegroundObjects", obj_jamButton);

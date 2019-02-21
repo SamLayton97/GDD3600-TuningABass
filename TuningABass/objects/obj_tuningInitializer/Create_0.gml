@@ -54,3 +54,6 @@ global.gTune = gInitTune;
 
 // initialize global progress percent to 0
 global.ProgressPercent = 0;
+
+// initialize global tutorial progress variables
+global.tutorialCompleted = true;	// set to True until tutorial gets implemented
