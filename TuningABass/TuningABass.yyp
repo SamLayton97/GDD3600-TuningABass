@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1d6c97e4-28f9-4a45-8040-ee87906cab13",
+            "Value": {
+                "id": "ae86a42e-d4d3-4320-a12c-c547ec38aa77",
+                "resourcePath": "objects\\obj_tutorialRoomProgressDisplay\\obj_tutorialRoomProgressDisplay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f2a182e-2505-416e-9d2c-78836ec2d390",
             "Value": {
                 "id": "78162313-5349-4189-a0a0-e0ba9d57c2ac",
@@ -767,6 +775,14 @@
             }
         },
         {
+            "Key": "a92fcec8-d517-4387-b7fc-a37b3eaf9513",
+            "Value": {
+                "id": "ca97208a-30d5-47b2-b082-db69db89be30",
+                "resourcePath": "views\\a92fcec8-d517-4387-b7fc-a37b3eaf9513.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ab030470-57d9-4174-8141-f88e826ae002",
             "Value": {
                 "id": "3b15d0f4-d074-424f-a844-0a2b8955ec87",
@@ -1092,6 +1108,14 @@
                 "id": "05b9b9d3-ff0f-4098-b065-a65bf4cd7eee",
                 "resourcePath": "views\\f1fca66d-30e6-4090-b091-655f961a24a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3e94554-2da5-44d8-b30f-2982810dfdc9",
+            "Value": {
+                "id": "83739e25-c726-407e-b6ab-72d08e7e6603",
+                "resourcePath": "objects\\obj_continueTutorialButton\\obj_continueTutorialButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
