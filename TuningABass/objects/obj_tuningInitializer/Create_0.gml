@@ -19,22 +19,22 @@ global.currString = BassStrings.E;
 // randomize initial string tunings to values outside "in-tune" hot zone
 randomize();
 eInitTune = irandom_range(1, 100);
-while (eInitTune >= 45 && eInitTune <= 55)
+while (eInitTune >= 35 && eInitTune <= 65)
 {
 	eInitTune = irandom_range(1, 100);
 }
 aInitTune = irandom_range(1, 100);
-while (aInitTune >= 45 && aInitTune <= 55)
+while (aInitTune >= 35 && aInitTune <= 65)
 {
 	aInitTune = irandom_range(1, 100);
 }
 dInitTune = irandom_range(1, 100);
-while(dInitTune >= 45 && dInitTune <= 55)
+while(dInitTune >= 35 && dInitTune <= 65)
 {
 	dInitTune = irandom_range(1, 100);
 }
 gInitTune = irandom_range(1, 100);
-while(gInitTune >= 45 && gInitTune <= 55)
+while(gInitTune >= 35 && gInitTune <= 65)
 {
 	gInitTune = irandom_range(1, 100);
 }
