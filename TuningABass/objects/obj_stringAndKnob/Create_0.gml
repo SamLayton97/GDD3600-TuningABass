@@ -1,5 +1,11 @@
 /// @description Used for initialization
 
-// NOTE: child objects will initialize their string and its current pitch here
-myString = BassStrings.E;
-myTuning = 50;
+// initialized enabled/disabled flag
+enabled = true;
+
+// if player hasn't yet finished tutorial and object doesn't represent E string
+if (!global.tutorialCompleted && myString != BassStrings.E)
+{
+	// disable string
+	enabled = false;
+}
