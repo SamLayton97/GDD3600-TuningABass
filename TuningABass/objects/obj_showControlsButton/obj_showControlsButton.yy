@@ -41,7 +41,7 @@
             "mvc": "1.0",
             "objectId": "f576b49d-1af2-4ae7-be78-8580417d77c4",
             "propertyId": "22febf55-76ab-485b-8042-6219c4a9118e",
-            "value": "fnt_buttonsSmall"
+            "value": "fnt_buttons"
         }
     ],
     "parentObjectId": "f576b49d-1af2-4ae7-be78-8580417d77c4",

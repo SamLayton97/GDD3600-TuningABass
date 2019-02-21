@@ -679,6 +679,14 @@
             }
         },
         {
+            "Key": "a23b929e-0e04-4514-ac5c-98a7b1151155",
+            "Value": {
+                "id": "c56ae71e-420f-4fec-92c6-c8b84fe571e0",
+                "resourcePath": "sprites\\spr_finalScorePanel\\spr_finalScorePanel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a293e60d-d5c7-4aa6-b376-ed377660343d",
             "Value": {
                 "id": "fecc2e80-4a4d-43be-a23a-a6612bfcd959",
@@ -963,14 +971,6 @@
             "Value": {
                 "id": "f6dcf04d-940e-4721-8c94-d9a3bcc87543",
                 "resourcePath": "sprites\\spr_electronicTunerSharp\\spr_electronicTunerSharp.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d1cfb130-7832-4b2d-a66f-399feeeb3f0f",
-            "Value": {
-                "id": "dcb46292-5796-4c8f-bf2f-0f1d2a56edd0",
-                "resourcePath": "sprites\\spr_finalScorePanel\\spr_finalScorePanel.yy",
                 "resourceType": "GMSprite"
             }
         },
