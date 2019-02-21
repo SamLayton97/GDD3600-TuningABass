@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "6fc150f8-12d6-4f0e-b8ce-a3e7e444263d",
+            "Value": {
+                "id": "8cb7bba6-38c1-4cb6-a60d-a031cd76df18",
+                "resourcePath": "fonts\\fnt_finalScoreSmall\\fnt_finalScoreSmall.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "709b0f0f-502d-4ee0-b8bc-2b80d0a8f950",
             "Value": {
                 "id": "98f7a11f-0bfe-42ab-8359-6c9cff23c5bd",
