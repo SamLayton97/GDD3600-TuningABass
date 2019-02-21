@@ -23,7 +23,7 @@
             "mvc": "1.0",
             "objectId": "f576b49d-1af2-4ae7-be78-8580417d77c4",
             "propertyId": "cd859bdc-949c-4831-b303-e8ed3ca193d3",
-            "value": "TuningTutorial"
+            "value": "Tuning Tutorial"
         },
         {
             "id": "1236796d-3a45-4aba-bf01-c18f43a105fb",
