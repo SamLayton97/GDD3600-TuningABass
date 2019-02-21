@@ -6,6 +6,21 @@ finalPercentage = global.ProgressPercent;
 // play crowd cheering sound effect
 audio_play_sound(sfx_crowdCheering, 10, false);
 
+// determine qualitative judgement of player's jam (overall performance)
+overallPerformance = "";
+if (finalPercentage > 97)
+	overallPerformance = "... and is was perfect!";
+else if (finalPercentage > 93)
+	overallPerformance = "... and is was great.";
+else if (finalPercentage > 87)
+	overallPerformance = "... and it was good.";
+else if (finalPercentage > 80)
+	overallPerformance = "... and it was fine.";
+else if (finalPercentage > 70)
+	overallPerformance = "... and it wasn't that great.";
+else
+	overallPerformance = "... and it was pretty bad.";
+
 // determine qualitative sound of e string
 eFeedback = "";
 var eTune = global.eTune;
