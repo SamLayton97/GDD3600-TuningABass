@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "ec628aa3-d04b-47be-b364-efbbbfff8e00"
+        },
+        {
+            "id": "417838c3-5e49-4b04-b572-5dac4ab99181",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "ec628aa3-d04b-47be-b364-efbbbfff8e00"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "0b41ab9f-41e7-405a-a3a5-40de51a14e92",
+            "id": "969b86f9-d7f2-4ac3-bd7b-d7fc58cfd1d0",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,9 +62,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "3",
-            "varName": "strumsToProgress",
-            "varType": 1
+            "value": ".8",
+            "varName": "tuneHoldTime",
+            "varType": 0
         }
     ],
     "solid": false,

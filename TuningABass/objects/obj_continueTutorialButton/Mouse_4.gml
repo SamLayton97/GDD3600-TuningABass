@@ -7,4 +7,6 @@ event_inherited();
 if (room == rm_PluckingStringTutorialRoom)
 	room_goto(rm_TurningKnobTutorialRoom);
 else if (room == rm_TurningKnobTutorialRoom)
-	room_goto(rm_TuningString);
+	room_goto(rm_TuningTutorialRoom);
+else if (room == rm_TuningTutorialRoom)
+	room_goto(rm_BassRoom);

@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "8cffc635-8a25-43fa-8aa8-4853dd8bac87",
+            "Value": {
+                "id": "2ad1d00d-20aa-4239-8b76-a11a4b75710d",
+                "resourcePath": "fonts\\fnt_tuneProximity\\fnt_tuneProximity.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "8e89697c-ed9e-4b22-94d6-f3de6330e069",
             "Value": {
                 "id": "021ae233-1fa1-4116-89f3-13c678e0b50d",

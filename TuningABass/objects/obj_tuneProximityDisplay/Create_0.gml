@@ -1,4 +1,6 @@
 /// @description used for initialization
 
-// initialize reading to display
-reading = "No reading";
+// initialize reading and tune hold variables
+reading = "default";
+tuneHoldCounter = 0;
+minHoldFrames = room_speed * tuneHoldTime;

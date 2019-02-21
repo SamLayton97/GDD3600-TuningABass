@@ -8,8 +8,5 @@ if (currStrums < strumsToProgress)
 	
 	// set room's conditions to 'met' if player reached 3 strums
 	if (currStrums == strumsToProgress) 
-	{
 		requirementMet = true;
-		audio_play_sound(sfx_buttonPress, 10, false);
-	}
 }
