@@ -17,7 +17,7 @@ if (finalPercentage > 97)
 else if (finalPercentage > 93)
 {
 	overallPerformance = "... and is was great.";
-	feedbackNotes = "Make sure every string is perfectly in tune before playing.";
+	feedbackNotes = "Make sure every string is perfectly in tune before playing. This is the case when the center light is solid for every string.";
 }
 else if (finalPercentage > 87)
 {
@@ -27,15 +27,17 @@ else if (finalPercentage > 87)
 else if (finalPercentage > 80)
 {
 	overallPerformance = "... and it was fine.";
-	feedbackNotes = "";
+	feedbackNotes = "When the center light flashes, the string is close but not yet in tune. The faster the center light flashes, the closer you are to a 'perfect tune.'";
 }
 else if (finalPercentage > 70)
 {
 	overallPerformance = "... and it wasn't that great.";
+	feedbackNotes = "When the side lights on the tuner are solid, the string is either too flat or too sharp. Before you finish tuning, these lights shouldn't be on.";
 }
 else
 {
 	overallPerformance = "... and it was pretty bad.";
+	feedbackNotes = "You need to check and tune every string before jamming out.";
 }
 
 // determine qualitative sound of e string

@@ -21,3 +21,5 @@ draw_text_color(x - 200, y + 10, "E String: " + eFeedback, c_lime, c_lime, c_lim
 draw_text_color(x - 200, y + 40, "A String: " + aFeedback, c_lime, c_lime, c_lime, c_lime, 1);
 draw_text_color(x - 200, y + 70, "D String: " + dFeedback, c_lime, c_lime, c_lime, c_lime, 1);
 draw_text_color(x - 200, y + 100, "G String: " + gFeedback, c_lime, c_lime, c_lime, c_lime, 1);
+
+// draw feedback notes below performance breakdown
