@@ -37,10 +37,3 @@ audio_sound_pitch(dronePlaying, pitchMultiplier);
 
 // silence drone until player plucks string
 audio_sound_gain(dronePlaying, 0, 0);
-
-// if player has not yet seen the tuning controls note, show it to them
-if (!global.seenTuningControls)
-{
-	instance_create_layer(512, 384, "SuperimposedNotesLayer", obj_tuningControlsNote);
-	global.seenTuningControls = true;
-}

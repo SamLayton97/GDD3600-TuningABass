@@ -50,8 +50,3 @@ global.gTune = gInitTune;
 
 // initialize global progress percent to 0
 global.ProgressPercent = 0;
-
-// initialize tutorial tracking variables
-global.seenIntroduction = false;
-global.seenTuningControls = false;
-global.seenObjetive = false;

@@ -10,7 +10,7 @@
         "709b0f0f-502d-4ee0-b8bc-2b80d0a8f950"
     ],
     "filterType": "GMSprite",
-    "folderName": "Tutorial Notes",
+    "folderName": "*OBSELETE* Tutorial Notes",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
