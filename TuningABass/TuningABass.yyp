@@ -1039,6 +1039,14 @@
             }
         },
         {
+            "Key": "b84998a7-a658-4a1c-b20a-f51a2b5835fd",
+            "Value": {
+                "id": "2d9524f3-cb8f-4452-a6de-10445be4f3ce",
+                "resourcePath": "sprites\\spr_tutorialTuningStringMessage\\spr_tutorialTuningStringMessage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8f52c29-dba3-44a2-9b5c-d6409a11df2c",
             "Value": {
                 "id": "764a2b84-22f4-4e4c-85ed-f68111551472",
