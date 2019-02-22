@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "7acb354e-4761-490b-877d-58e02d2cef35",
+            "Value": {
+                "id": "68f13f51-8fb6-428d-9f58-9a5e17986153",
+                "resourcePath": "sprites\\spr_tutorialTurningKnobMessage\\spr_tutorialTurningKnobMessage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e978b6a-b0cd-4fa2-bace-e96f320ac13e",
             "Value": {
                 "id": "636748e5-c5cb-4929-969c-6408ffdf5b80",

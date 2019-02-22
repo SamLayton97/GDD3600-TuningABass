@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "505d1880-fa6d-40ac-8139-956a548f4523",
             "propertyId": "2fc258c7-e0d9-4709-a5c0-dd000264bed2",
-            "value": "2"
+            "value": "1"
         }
     ],
     "parentObjectId": "505d1880-fa6d-40ac-8139-956a548f4523",
