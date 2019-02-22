@@ -14,7 +14,8 @@
         "17da2171-4ff4-40d2-98aa-8bc4e5328cc6",
         "85155483-0763-4b98-b284-93f7106d0da2",
         "eb06b012-768c-4fa7-9201-6d86b93c3062",
-        "1deb0ad0-429d-403f-977e-36f1bd990ca7"
+        "1deb0ad0-429d-403f-977e-36f1bd990ca7",
+        "ec2f5f2b-6e4b-469e-8876-9daf13aca157"
     ],
     "filterType": "GMSprite",
     "folderName": "Tutorial Message Sprites",

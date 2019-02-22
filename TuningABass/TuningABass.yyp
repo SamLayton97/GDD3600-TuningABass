@@ -1287,6 +1287,14 @@
             }
         },
         {
+            "Key": "e2dcccc7-fa43-482d-9c6b-dd1b791ccd4b",
+            "Value": {
+                "id": "ad3bad1c-7186-401f-9017-dcc602aade9e",
+                "resourcePath": "objects\\obj_finalObjectiveTutorialNote\\obj_finalObjectiveTutorialNote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e6326f57-70c8-45df-a7b7-09010619cdd9",
             "Value": {
                 "id": "6dbca6f2-4a10-45b3-9150-315e7a228fa4",
@@ -1307,6 +1315,14 @@
             "Value": {
                 "id": "eed15377-a16b-4189-808b-ebf14042bcf8",
                 "resourcePath": "sprites\\spr_mouseArrow\\spr_mouseArrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec2f5f2b-6e4b-469e-8876-9daf13aca157",
+            "Value": {
+                "id": "f5199cb7-ef0e-4953-962e-2d7d3c4e36ae",
+                "resourcePath": "sprites\\spr_finalObjectiveDemo\\spr_finalObjectiveDemo.yy",
                 "resourceType": "GMSprite"
             }
         },

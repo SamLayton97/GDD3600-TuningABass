@@ -9,3 +9,10 @@ if (!global.playerWelcomed)
 	instance_create_layer(global.screenWidth / 2, global.screenHeight / 2, "TutorialUILayer", obj_welcomeTutorialNote);
 	global.playerWelcomed = true;
 }
+
+// if player has completed tutorial but hasn't yet seen final test
+if (global.tutorialCompleted && !global.finalObjectiveSeen)
+{
+	instance_create_layer(global.screenWidth / 2, global.screenHeight / 2, "TutorialUILayer", obj_finalObjectiveTutorialNote);
+	global.finalObjectiveSeen = true;
+}
