@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "17da2171-4ff4-40d2-98aa-8bc4e5328cc6",
+            "Value": {
+                "id": "66e467ad-185d-4ec6-9df0-57a4d39fc9f3",
+                "resourcePath": "sprites\\spr_pluckStringDemo\\spr_pluckStringDemo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "199afb25-8e63-48c3-a20f-f0986dd0bdab",
             "Value": {
                 "id": "a54810b7-7bb0-4fa1-b63b-04a1439e47d4",
