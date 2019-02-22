@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "06de4fc0-f421-425b-aeff-7f29f1cd03c2",
+            "Value": {
+                "id": "91e41913-84d0-4442-b683-49f960dcd47e",
+                "resourcePath": "sprites\\spr_tutorialWelcomeMessage\\spr_tutorialWelcomeMessage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "078d6d90-f1c1-4769-9925-9bdbc2414601",
             "Value": {
                 "id": "1e154ebb-0f62-4edd-92c4-d43255b9531a",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "3ccc6867-9cde-43d1-93bf-5a8214c8f43a",
+            "Value": {
+                "id": "c1663702-f773-44f4-97ec-7e7f4fc4694c",
+                "resourcePath": "sprites\\spr_blankTutorialPage\\spr_blankTutorialPage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e5b735c-9b13-4329-a13c-46bed9043ee2",
             "Value": {
                 "id": "60558138-5769-4541-9d08-08b023f00fb8",
@@ -354,7 +370,7 @@
             "Key": "505d1880-fa6d-40ac-8139-956a548f4523",
             "Value": {
                 "id": "339a8dad-ec57-4b3f-b639-a9c6151a30d4",
-                "resourcePath": "objects\\obj_tutorialNote\\obj_tutorialNote.yy",
+                "resourcePath": "objects\\obj_tutorialNoteWithDemo\\obj_tutorialNoteWithDemo.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1063,6 +1079,14 @@
             }
         },
         {
+            "Key": "c7b23605-ad48-4bbe-9188-a417539a66f5",
+            "Value": {
+                "id": "331dfd89-23d3-410e-a8a5-38beebaedc91",
+                "resourcePath": "views\\c7b23605-ad48-4bbe-9188-a417539a66f5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c8e63a7b-d87e-48f6-bfbf-19928e203ea5",
             "Value": {
                 "id": "2bb8e6fc-5d51-490e-8c95-2a2544e88781",
@@ -1111,6 +1135,14 @@
             }
         },
         {
+            "Key": "d0503d3d-2283-4f8a-9dc4-572a324bb07b",
+            "Value": {
+                "id": "ed263050-3900-44d5-9e3a-6a375149763e",
+                "resourcePath": "objects\\obj_welcomeTutorialNote\\obj_welcomeTutorialNote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d0e17775-cb6e-4775-bf30-3b6eedc9e556",
             "Value": {
                 "id": "f6dcf04d-940e-4721-8c94-d9a3bcc87543",
@@ -1132,6 +1164,14 @@
                 "id": "dfdda993-f45e-40be-862e-685a9e74bab2",
                 "resourcePath": "views\\d83c8ce4-7056-4660-b86c-875601f264dd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8b7dcb5-281a-418f-88c8-931725e312ff",
+            "Value": {
+                "id": "875dd261-c0e4-405b-aaf8-ba741a756d33",
+                "resourcePath": "sprites\\spr_selectStringDemo\\spr_selectStringDemo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1179,6 +1219,14 @@
             "Value": {
                 "id": "b6a2e882-41ea-4f8a-bc50-39be47f03914",
                 "resourcePath": "sprites\\spr_electronicTunerFlat\\spr_electronicTunerFlat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb06b012-768c-4fa7-9201-6d86b93c3062",
+            "Value": {
+                "id": "eed15377-a16b-4189-808b-ebf14042bcf8",
+                "resourcePath": "sprites\\spr_mouseArrow\\spr_mouseArrow.yy",
                 "resourceType": "GMSprite"
             }
         },
