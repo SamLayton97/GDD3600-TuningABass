@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1051fb96-b3f1-4033-a6f6-a1fd83685657",
+            "Value": {
+                "id": "c7ca3e7e-12ee-4b1b-ae72-23e31d396869",
+                "resourcePath": "sprites\\spr_tutorialStrumMessage\\spr_tutorialStrumMessage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "11500f22-15df-4b91-b7dc-84ece4c3ac0c",
             "Value": {
                 "id": "c94702e0-1dd0-4e17-85cc-94968110e817",
