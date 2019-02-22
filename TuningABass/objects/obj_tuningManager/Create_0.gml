@@ -54,3 +54,14 @@ if (room == rm_TurningKnobTutorialRoom)
 	// increase gain of drone at standard rate
 	audio_sound_gain(dronePlaying, .8, ascendingGainTime);
 }
+
+// if in a tutorial room, spawn tutorial demos as appropriate
+if (room == rm_PluckingStringTutorialRoom)
+	instance_create_layer(global.screenWidth / 2, global.screenHeight / 2, 
+		"TutorialUILayer", obj_strummingTutorialNote);
+else if (room == rm_TurningKnobTutorialRoom)
+	// spawn turning knob demo
+	show_debug_message("turning knob");
+else if (room == rm_TuningTutorialRoom)
+	// spawn full tuning demo
+	show_debug_message("tuning");
