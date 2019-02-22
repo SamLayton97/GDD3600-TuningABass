@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "35e4ff1a-5557-4d70-a688-1c42ecadd3a9",
+            "Value": {
+                "id": "5b23cf87-af17-4ff9-bdd4-0f4448311102",
+                "resourcePath": "sprites\\spr_flashingButtonBase\\spr_flashingButtonBase.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "361d7a07-f7b8-4498-a77e-43e776c60a66",
             "Value": {
                 "id": "4d29c359-384a-45a5-9deb-a0b0810f17dc",

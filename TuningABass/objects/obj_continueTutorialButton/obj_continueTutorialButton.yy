@@ -42,6 +42,14 @@
             "objectId": "f576b49d-1af2-4ae7-be78-8580417d77c4",
             "propertyId": "22febf55-76ab-485b-8042-6219c4a9118e",
             "value": "fnt_buttonsSmall"
+        },
+        {
+            "id": "41231d84-f52d-4dfb-ba11-8c21a62be41f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "f576b49d-1af2-4ae7-be78-8580417d77c4",
+            "propertyId": "e8842d45-9d53-453e-88e4-f70e82726c7d",
+            "value": "spr_flashingButtonBase"
         }
     ],
     "parentObjectId": "f576b49d-1af2-4ae7-be78-8580417d77c4",
@@ -60,6 +68,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5a12d47c-03c6-4d4a-a391-9c3bd5ac6919",
+    "spriteId": "35e4ff1a-5557-4d70-a688-1c42ecadd3a9",
     "visible": true
 }
