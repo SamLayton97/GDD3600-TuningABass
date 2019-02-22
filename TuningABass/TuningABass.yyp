@@ -639,6 +639,14 @@
             }
         },
         {
+            "Key": "85155483-0763-4b98-b284-93f7106d0da2",
+            "Value": {
+                "id": "4f61b02a-4b39-419c-abb5-352c5dfe9e0e",
+                "resourcePath": "sprites\\spr_turningKnobDemo\\spr_turningKnobDemo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "85740f97-6895-4b16-8ba0-730c3e1e104c",
             "Value": {
                 "id": "810bc6b3-bd14-48ab-8fc3-c52b39e9a8ce",
