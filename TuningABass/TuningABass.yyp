@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "1deb0ad0-429d-403f-977e-36f1bd990ca7",
+            "Value": {
+                "id": "3e33d153-962a-4631-8618-d08e3fe71cbb",
+                "resourcePath": "sprites\\spr_tuningStringDemo\\spr_tuningStringDemo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f2a182e-2505-416e-9d2c-78836ec2d390",
             "Value": {
                 "id": "78162313-5349-4189-a0a0-e0ba9d57c2ac",
@@ -691,6 +699,14 @@
             "Value": {
                 "id": "a52e22a1-5b92-46b9-9a21-cf987b8e9d80",
                 "resourcePath": "objects\\obj_bassString\\obj_bassString.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8a10d615-6b16-47df-a761-81269e0d7e98",
+            "Value": {
+                "id": "67aa32ae-aed9-49f5-802b-08adeb9afe0b",
+                "resourcePath": "objects\\obj_tuningStringTutorialNote\\obj_tuningStringTutorialNote.yy",
                 "resourceType": "GMObject"
             }
         },
