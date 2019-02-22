@@ -1207,6 +1207,14 @@
             }
         },
         {
+            "Key": "cfc751e6-2eaa-4c3b-97a5-21d71b0353ef",
+            "Value": {
+                "id": "36467efa-8ef1-4a83-b70d-f7a2277be6f1",
+                "resourcePath": "sprites\\spr_tutorialFinalTestMessage\\spr_tutorialFinalTestMessage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d0503d3d-2283-4f8a-9dc4-572a324bb07b",
             "Value": {
                 "id": "ed263050-3900-44d5-9e3a-6a375149763e",
