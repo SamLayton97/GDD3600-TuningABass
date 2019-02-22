@@ -61,7 +61,8 @@ if (room == rm_PluckingStringTutorialRoom)
 		"TutorialUILayer", obj_strummingTutorialNote);
 else if (room == rm_TurningKnobTutorialRoom)
 	// spawn turning knob demo
-	show_debug_message("turning knob");
+	instance_create_layer(global.screenWidth / 2, global.screenHeight / 2,
+		"TutorialUILayer", obj_turningKnobTutorialNote);
 else if (room == rm_TuningTutorialRoom)
 	// spawn full tuning demo
 	show_debug_message("tuning");

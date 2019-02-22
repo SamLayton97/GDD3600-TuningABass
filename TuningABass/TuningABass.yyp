@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "063a89c6-b4e0-40e2-b372-53c17f8b4d85",
+            "Value": {
+                "id": "a438f731-51f2-45bc-8fd6-26f3b70215b1",
+                "resourcePath": "objects\\obj_turningKnobTutorialNote\\obj_turningKnobTutorialNote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "06de4fc0-f421-425b-aeff-7f29f1cd03c2",
             "Value": {
                 "id": "91e41913-84d0-4442-b683-49f960dcd47e",
