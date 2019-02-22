@@ -5,7 +5,7 @@
 event_inherited();
 
 // play 'success' sound
-audio_play_sound(sfx_buttonPress, 10, false);
+audio_play_sound(sfx_tutorialProgress, 10, false);
 
 // if player has completed tutorial and is returning for refresher, change message
 if (global.tutorialCompleted)

@@ -6,7 +6,8 @@
     "children": [
         "45263082-53b0-44d1-8079-3e15378ad4f9",
         "a293e60d-d5c7-4aa6-b376-ed377660343d",
-        "6f292e4a-f49c-4e17-acf4-022cac559141"
+        "6f292e4a-f49c-4e17-acf4-022cac559141",
+        "a237d490-468c-4959-ad29-28237e8a6b5b"
     ],
     "filterType": "GMSound",
     "folderName": "Button Sounds",

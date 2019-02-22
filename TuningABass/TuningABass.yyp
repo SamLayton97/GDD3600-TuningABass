@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "a237d490-468c-4959-ad29-28237e8a6b5b",
+            "Value": {
+                "id": "829d8078-28c3-438a-bbd4-640f278c1521",
+                "resourcePath": "sounds\\sfx_tutorialProgress\\sfx_tutorialProgress.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a23b929e-0e04-4514-ac5c-98a7b1151155",
             "Value": {
                 "id": "c56ae71e-420f-4fec-92c6-c8b84fe571e0",
