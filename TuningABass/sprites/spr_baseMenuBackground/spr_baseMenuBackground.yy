@@ -1,8 +1,8 @@
 {
-    "id": "6bba3637-a8b5-452c-bf14-63b87ac41516",
+    "id": "e50e4846-15d9-44ae-95b2-91fa0dee99b3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_creditsMenuBackground",
+    "name": "spr_baseMenuBackground",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -16,38 +16,38 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "0cab5c44-b59c-495c-8e4e-12dbf5e24b35",
+            "id": "e5ad725a-e80c-4fee-9b21-403b44e16441",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "6bba3637-a8b5-452c-bf14-63b87ac41516",
+            "SpriteId": "e50e4846-15d9-44ae-95b2-91fa0dee99b3",
             "compositeImage": {
-                "id": "cc6d463d-d113-459e-a97c-10606ceb0837",
+                "id": "5c64eeb8-d05e-42a6-850f-24176467fe5a",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "0cab5c44-b59c-495c-8e4e-12dbf5e24b35",
+                "FrameId": "e5ad725a-e80c-4fee-9b21-403b44e16441",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "7ec8bdaa-f859-4670-a6c7-7fdbfbf1112d",
+                    "id": "1dca7fb0-0886-4139-ad83-870a893cd782",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "0cab5c44-b59c-495c-8e4e-12dbf5e24b35",
-                    "LayerId": "064b5ae3-1106-40cb-85bb-3b26a9e3f2fb"
+                    "FrameId": "e5ad725a-e80c-4fee-9b21-403b44e16441",
+                    "LayerId": "a13cf1ed-7722-4679-a554-589bd9f7785c"
                 },
                 {
-                    "id": "410a667b-6a6d-4a2a-ba72-9b97be942f9c",
+                    "id": "46a7b9d4-a199-432d-b0c4-bf3b64c220e0",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "0cab5c44-b59c-495c-8e4e-12dbf5e24b35",
-                    "LayerId": "1ab152a3-7d0d-4ef5-b34d-4d17dd3a93c7"
+                    "FrameId": "e5ad725a-e80c-4fee-9b21-403b44e16441",
+                    "LayerId": "1efb1b00-2bdb-4f13-b31d-6864684b8a44"
                 },
                 {
-                    "id": "6f44f63d-24d8-4782-9d0f-6e7d5267b487",
+                    "id": "d9aef81a-e05a-41c9-8624-9f945dda7ad2",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "0cab5c44-b59c-495c-8e4e-12dbf5e24b35",
-                    "LayerId": "29026de7-aee6-493f-a8d3-61d403ae819e"
+                    "FrameId": "e5ad725a-e80c-4fee-9b21-403b44e16441",
+                    "LayerId": "da05c45a-11c7-4e66-92de-f704003f9b10"
                 }
             ]
         }
@@ -57,10 +57,10 @@
     "height": 768,
     "layers": [
         {
-            "id": "064b5ae3-1106-40cb-85bb-3b26a9e3f2fb",
+            "id": "a13cf1ed-7722-4679-a554-589bd9f7785c",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "6bba3637-a8b5-452c-bf14-63b87ac41516",
+            "SpriteId": "e50e4846-15d9-44ae-95b2-91fa0dee99b3",
             "blendMode": 0,
             "isLocked": false,
             "name": "bass",
@@ -68,10 +68,10 @@
             "visible": true
         },
         {
-            "id": "1ab152a3-7d0d-4ef5-b34d-4d17dd3a93c7",
+            "id": "1efb1b00-2bdb-4f13-b31d-6864684b8a44",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "6bba3637-a8b5-452c-bf14-63b87ac41516",
+            "SpriteId": "e50e4846-15d9-44ae-95b2-91fa0dee99b3",
             "blendMode": 0,
             "isLocked": false,
             "name": "island",
@@ -79,10 +79,10 @@
             "visible": true
         },
         {
-            "id": "29026de7-aee6-493f-a8d3-61d403ae819e",
+            "id": "da05c45a-11c7-4e66-92de-f704003f9b10",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "6bba3637-a8b5-452c-bf14-63b87ac41516",
+            "SpriteId": "e50e4846-15d9-44ae-95b2-91fa0dee99b3",
             "blendMode": 0,
             "isLocked": false,
             "name": "sea and sky",
