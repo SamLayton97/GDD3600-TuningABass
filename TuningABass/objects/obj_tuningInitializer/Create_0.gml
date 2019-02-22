@@ -57,3 +57,5 @@ global.ProgressPercent = 0;
 
 // initialize global tutorial progress variables
 global.tutorialCompleted = false;
+global.playerWelcomed = false;
+global.playerGivenFinalInstructions = false;
